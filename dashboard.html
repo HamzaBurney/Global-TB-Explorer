@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Data Dashboard</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        /* Default styles for larger screens (desktop or tablet) */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .dashboard-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .row {
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
+        }
+
+        .chart-container {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .full-width {
+            width: 100%;
+        }
+
+        svg {
+            width: 100%;
+            height: 100%;
+        }
+
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            padding: 8px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+            opacity: 0;
+        }
+
+        #year-selector,
+        .checkbox-container {
+            margin: 10px;
+            font-size: 14px;
+        }
+
+        .checkbox-container label {
+            margin-left: 5px;
+        }
+
+        .checkbox-container input {
+            margin-right: 5px;
+        }
+
+        circle.highlighted {
+            stroke: #000;
+            stroke-width: 3px;
+            fill: red;
+        }
+
+        line.link-highlighted {
+            stroke: red;
+            stroke-width: 3px;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        .bubble:hover {
+            fill-opacity: 0.5;
+        }
+
+        #playPauseBtn {
+            margin-top: 20px;
+        }
+
+        .legend {
+            font-size: 14px;
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-right: 20px;
+            margin-bottom: 10px;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            margin-right: 5px;
+        }
+
+        .inactive {
+            opacity: 0.5;
+        }
+
+        .grid line {
+            stroke: lightgray;
+            stroke-opacity: 0.7;
+        }
+
+        .grid path {
+            stroke-width: 0;
+        }
+
+        .x-axis-title {
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .y-axis-title {
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        /* Mobile & Tablet styles (screens smaller than 768px) */
+        @media screen and (max-width: 768px) {
+            .row {
+                flex-direction: column;
+                /* Stack charts vertically */
+                gap: 20px;
+            }
+
+            .chart-container {
+                width: 100%;
+                /* Make each chart take full width */
+                margin-bottom: 20px;
+                /* Add space between charts */
+            }
+
+            .full-width {
+                width: 100%;
+            }
+
+            /* Adjust font size for mobile */
+            .x-axis-title,
+            .y-axis-title {
+                font-size: 12px;
+                /* Smaller font for axis titles */
+            }
+
+            .legend-item {
+                font-size: 12px;
+                margin-right: 10px;
+            }
+
+            .tooltip {
+                font-size: 10px;
+                /* Smaller font size for tooltips */
+                padding: 6px;
+            }
+
+            #playPauseBtn {
+                font-size: 12px;
+                /* Smaller button text */
+            }
+
+            #yearSlider {
+                width: 100%;
+                /* Make the slider full-width */
+            }
+        }
+
+        /* Very Small Screens (like portrait mobile) */
+        @media screen and (max-width: 480px) {
+
+            .x-axis-title,
+            .y-axis-title {
+                font-size: 10px;
+                /* Even smaller font for very small screens */
+            }
+
+            .tooltip {
+                font-size: 8px;
+                /* Even smaller font for tooltips */
+                padding: 4px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <label for="format-select">Format:</label>
+
+    <select id="format-select">
+        <option value="png">PNG</option>
+        <option value="jpeg">JPEG</option>
+        <option value="svg">SVG</option>
+    </select><br><br>
+
+    <label for="year">Select Year:</label>
+    <select id="year" onchange="updateCharts(this.value)"></select>
+
+    <div class="dashboard-container">
+        <div class="row">
+            <div class="chart-container" id="sunburst-chart">
+                <button onclick="downloadChart('sunburst-chart', 'sunburst_chart')" id="sunburst-download">Download
+                    Sunburst</button>
+                <div class="tooltip" id="tooltip1"></div>
+            </div>
+
+            <div class="chart-container" id="treemap-chart">
+                <button onclick="downloadChart('treemap-chart', 'treemap_chart')">Download Treemap</button>
+                <div class="tooltip" id="tooltip2"></div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="chart-container" id="forcedirected-chart">
+                <button onclick="downloadChart('forcedirected-chart', 'forcedirected_chart')">Download Force
+                    Directed</button><br><br>
+                <!-- <label for="region-select">Choose a Region:</label>
+                <select id="region-select"></select> -->
+                <div class="tooltip" id="tooltip3"></div>
+            </div>
+
+            <div class="chart-container" id="mapchart">
+                <button onclick="downloadChart('mapchart', 'map_chart')">Download Map</button><br><br>
+                <div class="tooltip" id="tooltip4"></div>
+            </div>
+        </div>
+
+        <!-- Third Row: Timeline Chart (spanning full width)  -->
+        <div class="full-width" id="timeline">
+            <button onclick="downloadChart('timeline', 'timeline-chart')" id="timeline-download">Download
+                Timeline</button><br>
+            <div>
+                <label for="yearSlider">Year: </label>
+                <input type="range" id="yearSlider" min="2000" max="2019" value="2000" step="1">
+                <span id="yearLabel">2000</span>
+            </div>
+            <button id="playPauseBtn">Play</button>
+            <div id="legend" class="legend"></div>
+            <div class="tooltip" id="tooltip5"></div>
+        </div>
+    </div>
+
+    <script src="sunburst.js"></script>
+    <script src="treemap.js"></script>
+    <script src="forcedirected.js"></script>
+    <script src="mapchart.js"></script>
+    <script src="timeline.js"></script>
+
+    <script>
+        // Populate year options dynamically
+        const yearSelect = document.getElementById("year");
+        for (let year = 2000; year <= 2020; year++) {
+            const option = document.createElement("option");
+            option.text = year;
+            option.value = year;
+            yearSelect.appendChild(option);
+        }
+
+        // Update function for all charts
+        function updateCharts(year) {
+            updateChart1(year);
+            updateChart2(year);
+            updateChart3(year);
+        }
+
+        function filterForceDirected(region) {
+            updateGraph(region);
+        }
+
+        function downloadChart(chartId, fileName) {
+            const svgElement = document.querySelector(`#${chartId} svg`);
+            if (!svgElement) {
+                console.error("SVG element not found!");
+                return;
+            }
+
+            const formatSelect = document.getElementById("format-select");
+            const format = formatSelect.value; // Get selected format
+
+            if (format === "svg") {
+                // Directly download the SVG
+                const svgData = new XMLSerializer().serializeToString(svgElement);
+                const blob = new Blob([svgData], { type: "image/svg+xml;charset=utf-8" });
+                const url = URL.createObjectURL(blob);
+
+                const a = document.createElement("a");
+                a.download = `${fileName}.svg`;
+                a.href = url;
+                a.click();
+
+                URL.revokeObjectURL(url);
+                return;
+            }
+
+            // For PNG or JPEG, we need to convert SVG to canvas
+            const svgData = new XMLSerializer().serializeToString(svgElement);
+            const svgBlob = new Blob([svgData], { type: "image/svg+xml;charset=utf-8" });
+            const url = URL.createObjectURL(svgBlob);
+
+            const canvas = document.createElement("canvas");
+            const context = canvas.getContext("2d");
+
+            const image = new Image();
+            image.onload = function () {
+                // Set canvas dimensions to match the SVG
+                canvas.width = svgElement.clientWidth;
+                canvas.height = svgElement.clientHeight;
+
+                // Fill the canvas with white background
+                context.fillStyle = "white";
+                context.fillRect(0, 0, canvas.width, canvas.height);
+
+                // Draw the SVG image on top of the white background
+                context.drawImage(image, 0, 0);
+
+                // Create a downloadable link for the chosen format
+                const a = document.createElement("a");
+                if (format === "png") {
+                    a.download = `${fileName}.png`;
+                    a.href = canvas.toDataURL("image/png");
+                } else if (format === "jpeg") {
+                    a.download = `${fileName}.jpeg`;
+                    a.href = canvas.toDataURL("image/jpeg");
+                }
+                a.click();
+
+                // Cleanup
+                URL.revokeObjectURL(url);
+            };
+            image.src = url;
+        }
+
+
+    </script>
+</body>
+
+</html>

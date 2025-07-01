@@ -1,0 +1,169 @@
+iso3,year,Tuberculosis_Deaths,Country,region,subregion,latitude,longitude
+AFG,2012,6245.39,Afghanistan,Asia,Southern Asia,33.0,65.0
+AGO,2012,9018.443,Angola,Africa,Middle Africa,-12.5,18.5
+ALB,2012,5.751667,Albania,Europe,Southern Europe,41.0,20.0
+ARE,2012,36.00047,United Arab Emirates,Asia,Western Asia,24.0,54.0
+ARG,2012,433.4684,Argentina,Americas,South America,-34.0,-64.0
+ARM,2012,122.7346,Armenia,Asia,Western Asia,40.0,45.0
+ATG,2012,0.4011669,Antigua and Barbuda,Americas,Caribbean,17.05,-61.8
+AUS,2012,20.52614,Australia,Oceania,Australia and New Zealand,-27.0,133.0
+AUT,2012,30.23522,Austria,Europe,Western Europe,47.3333,13.3333
+AZE,2012,269.3452,Azerbaijan,Asia,Western Asia,40.5,47.5
+BDI,2012,1261.015,Burundi,Africa,Eastern Africa,-3.5,30.0
+BEL,2012,40.8615,Belgium,Europe,Western Europe,50.8333,4.0
+BEN,2012,605.2566,Benin,Africa,Western Africa,9.5,2.25
+BFA,2012,1008.339,Burkina Faso,Africa,Western Africa,13.0,-2.0
+BGD,2012,42972.31,Bangladesh,Asia,Southern Asia,24.0,90.0
+BGR,2012,141.3729,Bulgaria,Europe,Eastern Europe,43.0,25.0
+BHR,2012,3.37528,Bahrain,Asia,Western Asia,26.0,50.55
+BIH,2012,102.2996,Bosnia and Herzegovina,Europe,Southern Europe,44.0,18.0
+BLR,2012,529.4506,Belarus,Europe,Eastern Europe,53.0,28.0
+BLZ,2012,7.438753,Belize,Americas,Central America,17.25,-88.75
+BOL,2012,831.3183,Bolivia,Americas,South America,-17.0,-65.0
+BRA,2012,3705.195,Brazil,Americas,South America,-10.0,-55.0
+BRB,2012,0.6634104,Barbados,Americas,Caribbean,13.1667,-59.5333
+BTN,2012,71.73617,Bhutan,Asia,Southern Asia,27.5,90.5
+BWA,2012,287.6903,Botswana,Africa,Southern Africa,-22.0,24.0
+CAF,2012,2290.392,Central African Republic,Africa,Middle Africa,7.0,21.0
+CAN,2012,64.66723,Canada,Americas,Northern America,60.0,-95.0
+CHE,2012,10.76965,Switzerland,Europe,Western Europe,47.0,8.0
+CHL,2012,318.8514,Chile,Americas,South America,-30.0,-71.0
+CHN,2012,33834.5,China,Asia,Eastern Asia,35.0,105.0
+CMR,2012,4770.224,Cameroon,Africa,Middle Africa,6.0,12.0
+COD,2012,24883.7,Democratic Republic of the Congo,Africa,Middle Africa,0.0,25.0
+COL,2012,943.8913,Colombia,Americas,South America,4.0,-72.0
+COM,2012,36.41866,Comoros,Africa,Eastern Africa,-12.1667,44.25
+CRI,2012,41.35695,Costa Rica,Americas,Central America,10.0,-84.0
+CUB,2012,32.4547,Cuba,Americas,Caribbean,21.5,-80.0
+CYP,2012,2.26831,Cyprus,Europe,Southern Europe,35.0,33.0
+DEU,2012,216.0179,Germany,Europe,Western Europe,51.0,9.0
+DJI,2012,215.335,Djibouti,Africa,Eastern Africa,11.5,43.0
+DNK,2012,16.37912,Denmark,Europe,Northern Europe,56.0,10.0
+DOM,2012,379.5658,Dominican Republic,Americas,Caribbean,19.0,-70.6667
+DZA,2012,1727.936,Algeria,Africa,Northern Africa,28.0,3.0
+ECU,2012,432.3752,Ecuador,Americas,South America,-2.0,-77.5
+EGY,2012,413.9331,Egypt,Africa,Northern Africa,27.0,30.0
+ERI,2012,423.4093,Eritrea,Africa,Eastern Africa,15.0,39.0
+ESP,2012,202.9077,Spain,Europe,Southern Europe,40.0,-4.0
+EST,2012,30.07567,Estonia,Europe,Northern Europe,59.0,26.0
+ETH,2012,18239.71,Ethiopia,Africa,Eastern Africa,8.0,38.0
+FIN,2012,26.83918,Finland,Europe,Northern Europe,64.0,26.0
+FJI,2012,20.15461,Fiji,Oceania,Melanesia,-18.0,175.0
+FRA,2012,258.083,France,Europe,Western Europe,46.0,2.0
+GAB,2012,1118.647,Gabon,Africa,Middle Africa,-1.0,11.75
+GBR,2012,207.2561,United Kingdom,Europe,Northern Europe,54.0,-2.0
+GEO,2012,148.4322,Georgia,Asia,Western Asia,42.0,43.5
+GHA,2012,5989.131,Ghana,Africa,Western Africa,8.0,-2.0
+GIN,2012,1671.695,Guinea,Africa,Western Africa,11.0,-10.0
+GNB,2012,644.7816,Guinea-Bissau,Africa,Western Africa,12.0,-15.0
+GNQ,2012,63.60403,Equatorial Guinea,Africa,Middle Africa,2.0,10.0
+GRC,2012,73.03174,Greece,Europe,Southern Europe,39.0,22.0
+GRD,2012,0.6523951,Grenada,Americas,Caribbean,12.1167,-61.6667
+GTM,2012,172.4977,Guatemala,Americas,Central America,15.5,-90.25
+GUY,2012,96.89211,Guyana,Americas,South America,5.0,-59.0
+HND,2012,200.0106,Honduras,Americas,Central America,15.0,-86.5
+HRV,2012,42.40226,Croatia,Europe,Southern Europe,45.1667,15.5
+HTI,2012,614.6895,Haiti,Americas,Caribbean,19.0,-72.4167
+HUN,2012,81.75762,Hungary,Europe,Eastern Europe,47.0,20.0
+IDN,2012,59100.48,Indonesia,Asia,South-Eastern Asia,-5.0,120.0
+IND,2012,292694.9,India,Asia,Southern Asia,20.0,77.0
+IRL,2012,14.49497,Ireland,Europe,Northern Europe,53.0,-8.0
+IRN,2012,455.2283,Iran,Asia,Southern Asia,32.0,53.0
+IRQ,2012,532.6363,Iraq,Asia,Western Asia,33.0,44.0
+ISL,2012,0.0,Iceland,Europe,Northern Europe,65.0,-18.0
+ISR,2012,11.90003,Israel,Asia,Western Asia,31.5,34.75
+ITA,2012,197.7245,Italy,Europe,Southern Europe,42.8333,12.8333
+JAM,2012,8.442178,Jamaica,Americas,Caribbean,18.25,-77.5
+JOR,2012,7.139843,Jordan,Asia,Western Asia,31.0,36.0
+JPN,2012,2068.933,Japan,Asia,Eastern Asia,36.0,138.0
+KAZ,2012,1329.984,Kazakhstan,Asia,Central Asia,48.0,68.0
+KEN,2012,21794.92,Kenya,Africa,Eastern Africa,1.0,38.0
+KGZ,2012,469.7849,Kyrgyzstan,Asia,Central Asia,41.0,75.0
+KHM,2012,2145.69,Cambodia,Asia,South-Eastern Asia,13.0,105.0
+KIR,2012,27.04827,Kiribati,Oceania,Micronesia,1.4167,173.0
+KOR,2012,1961.599,South Korea,Asia,Eastern Asia,37.0,127.5
+KWT,2012,23.78597,Kuwait,Asia,Western Asia,29.3375,47.6581
+LAO,2012,2453.85,Lao People's Democratic Republic,Asia,South-Eastern Asia,18.0,105.0
+LBN,2012,21.84425,Lebanon,Asia,Western Asia,33.8333,35.8333
+LBR,2012,929.5093,Liberia,Africa,Western Africa,6.5,-9.5
+LBY,2012,264.6165,Libya,Africa,Northern Africa,25.0,17.0
+LCA,2012,0.5668643,Saint Lucia,Americas,Caribbean,13.8833,-61.1333
+LKA,2012,664.262,Sri Lanka,Asia,Southern Asia,7.0,81.0
+LSO,2012,810.545,Lesotho,Africa,Southern Africa,-29.5,28.5
+LTU,2012,220.6918,Lithuania,Europe,Northern Europe,56.0,24.0
+LUX,2012,0.0003998,Luxembourg,Europe,Western Europe,49.75,6.1667
+LVA,2012,46.21106,Latvia,Europe,Northern Europe,57.0,25.0
+MAR,2012,1902.168,Morocco,Africa,Northern Africa,32.0,-5.0
+MDA,2012,440.5137,Moldova,Europe,Eastern Europe,47.0,29.0
+MDG,2012,7231.393,Madagascar,Africa,Eastern Africa,-20.0,47.0
+MDV,2012,4.253808,Maldives,Asia,Southern Asia,3.25,73.0
+MEX,2012,1641.864,Mexico,Americas,Central America,23.0,-102.0
+MLI,2012,1147.346,Mali,Africa,Western Africa,17.0,-4.0
+MLT,2012,1.748801,Malta,Europe,Southern Europe,35.8333,14.5833
+MNG,2012,230.1533,Mongolia,Asia,Eastern Asia,46.0,105.0
+MOZ,2012,4553.412,Mozambique,Africa,Eastern Africa,-18.25,35.0
+MRT,2012,513.3676,Mauritania,Africa,Western Africa,20.0,-12.0
+MUS,2012,14.3724,Mauritius,Africa,Eastern Africa,-20.2833,57.55
+MWI,2012,2609.636,Malawi,Africa,Eastern Africa,-13.5,34.0
+MYS,2012,804.6006,Malaysia,Asia,South-Eastern Asia,2.5,112.5
+NAM,2012,1032.192,Namibia,Africa,Southern Africa,-22.0,17.0
+NER,2012,2193.895,Niger,Africa,Western Africa,16.0,8.0
+NGA,2012,60066.83,Nigeria,Africa,Western Africa,10.0,8.0
+NIC,2012,117.1521,Nicaragua,Americas,Central America,13.0,-85.0
+NLD,2012,21.98172,Netherlands,Europe,Western Europe,52.5,5.75
+NOR,2012,10.98055,Norway,Europe,Northern Europe,62.0,10.0
+NPL,2012,12650.63,Nepal,Asia,Southern Asia,28.0,84.0
+NZL,2012,6.97179,New Zealand,Oceania,Australia and New Zealand,-41.0,174.0
+OMN,2012,11.41657,Oman,Asia,Western Asia,21.0,57.0
+PAK,2012,26496.55,Pakistan,Asia,Southern Asia,30.0,70.0
+PAN,2012,140.3179,Panama,Americas,Central America,9.0,-80.0
+PER,2012,1684.28,Peru,Americas,South America,-10.0,-76.0
+PHL,2012,19550.84,Philippines,Asia,South-Eastern Asia,13.0,122.0
+PNG,2012,2789.491,Papua New Guinea,Oceania,Melanesia,-6.0,147.0
+POL,2012,538.586,Poland,Europe,Eastern Europe,52.0,20.0
+PRK,2012,11287.8,North Korea,Asia,Eastern Asia,40.0,127.0
+PRT,2012,174.938,Portugal,Europe,Southern Europe,39.5,-8.0
+PRY,2012,190.5958,Paraguay,Americas,South America,-23.0,-58.0
+QAT,2012,5.039437,Qatar,Asia,Western Asia,25.5,51.25
+ROU,2012,1019.446,Romania,Europe,Eastern Europe,46.0,25.0
+RUS,2012,15181.2,Russian Federation,Europe,Eastern Europe,60.0,100.0
+RWA,2012,452.2123,Rwanda,Africa,Eastern Africa,-2.0,30.0
+SAU,2012,664.0785,Saudi Arabia,Asia,Western Asia,25.0,45.0
+SDN,2012,4871.074,Sudan,Africa,Northern Africa,15.0,30.0
+SEN,2012,1412.662,Senegal,Africa,Western Africa,14.0,-14.0
+SGP,2012,56.54124,Singapore,Asia,South-Eastern Asia,1.3667,103.8
+SLB,2012,31.71111,Solomon Islands,Oceania,Melanesia,-8.0,159.0
+SLE,2012,2017.069,Sierra Leone,Africa,Western Africa,8.5,-11.5
+SLV,2012,59.74604,El Salvador,Americas,Central America,13.8333,-88.9167
+SOM,2012,6050.679,Somalia,Africa,Eastern Africa,10.0,49.0
+SRB,2012,108.1749,Serbia,Europe,Eastern Europe,44.0,21.0
+SSD,2012,2608.774,South Sudan,Africa,Middle Africa,8.0,30.0
+SUR,2012,16.01013,Suriname,Americas,South America,4.0,-56.0
+SVK,2012,13.51486,Slovakia,Europe,Eastern Europe,48.6667,19.5
+SVN,2012,5.37077,Slovenia,Europe,Southern Europe,46.0,15.0
+SWE,2012,28.58054,Sweden,Europe,Northern Europe,62.0,15.0
+SYC,2012,0.0,Seychelles,Africa,Eastern Africa,-4.5833,55.6667
+SYR,2012,19.44235,Syrian Arab Republic,Asia,Western Asia,35.0,38.0
+TCD,2012,1841.235,Chad,Africa,Middle Africa,15.0,19.0
+TGO,2012,424.3769,Togo,Africa,Western Africa,8.0,1.1667
+THA,2012,6858.639,Thailand,Asia,South-Eastern Asia,15.0,100.0
+TJK,2012,564.7267,Tajikistan,Asia,Central Asia,39.0,71.0
+TKM,2012,383.4674,Turkmenistan,Asia,Central Asia,40.0,60.0
+TON,2012,0.5775,Tonga,Oceania,Polynesia,-20.0,-175.0
+TTO,2012,20.89703,Trinidad and Tobago,Americas,Caribbean,11.0,-61.0
+TUN,2012,79.30248,Tunisia,Africa,Northern Africa,34.0,9.0
+TUR,2012,587.3238,Turkey,Asia,Western Asia,39.0,35.0
+UGA,2012,3943.163,Uganda,Africa,Eastern Africa,1.0,32.0
+UKR,2012,2842.108,Ukraine,Europe,Eastern Europe,49.0,32.0
+URY,2012,30.61777,Uruguay,Americas,South America,-33.0,-56.0
+USA,2012,334.5154,United States,Americas,Northern America,38.0,-97.0
+UZB,2012,1145.506,Uzbekistan,Asia,Central Asia,41.0,64.0
+VCT,2012,4.045332,Saint Vincent and the Grenadines,Americas,Caribbean,13.25,-61.2
+VEN,2012,505.4481,Venezuela,Americas,South America,8.0,-66.0
+VNM,2012,10383.39,Vietnam,Asia,South-Eastern Asia,16.0,106.0
+VUT,2012,9.91566,Vanuatu,Oceania,Melanesia,-16.0,167.0
+WSM,2012,0.693,Samoa,Oceania,Polynesia,-13.5833,-172.3333
+YEM,2012,590.0363,Yemen,Asia,Western Asia,15.0,48.0
+ZAF,2012,13214.18,South Africa,Africa,Southern Africa,-29.0,24.0
+ZMB,2012,2873.818,Zambia,Africa,Eastern Africa,-15.0,30.0
+ZWE,2012,936.8376,Zimbabwe,Africa,Eastern Africa,-20.0,30.0

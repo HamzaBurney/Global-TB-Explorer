@@ -1,0 +1,169 @@
+iso3,year,Tuberculosis_Deaths,Country,region,subregion,latitude,longitude
+AFG,2016,5369.93,Afghanistan,Asia,Southern Asia,33.0,65.0
+AGO,2016,9724.8,Angola,Africa,Middle Africa,-12.5,18.5
+ALB,2016,5.697066,Albania,Europe,Southern Europe,41.0,20.0
+ARE,2016,36.86439,United Arab Emirates,Asia,Western Asia,24.0,54.0
+ARG,2016,445.216,Argentina,Americas,South America,-34.0,-64.0
+ARM,2016,47.37353,Armenia,Asia,Western Asia,40.0,45.0
+ATG,2016,0.3826525,Antigua and Barbuda,Americas,Caribbean,17.05,-61.8
+AUS,2016,24.70347,Australia,Oceania,Australia and New Zealand,-27.0,133.0
+AUT,2016,26.30228,Austria,Europe,Western Europe,47.3333,13.3333
+AZE,2016,366.192,Azerbaijan,Asia,Western Asia,40.5,47.5
+BDI,2016,1247.286,Burundi,Africa,Eastern Africa,-3.5,30.0
+BEL,2016,16.52616,Belgium,Europe,Western Europe,50.8333,4.0
+BEN,2016,630.0593,Benin,Africa,Western Africa,9.5,2.25
+BFA,2016,1024.314,Burkina Faso,Africa,Western Africa,13.0,-2.0
+BGD,2016,34620.97,Bangladesh,Asia,Southern Asia,24.0,90.0
+BGR,2016,107.8411,Bulgaria,Europe,Eastern Europe,43.0,25.0
+BHR,2016,5.097625,Bahrain,Asia,Western Asia,26.0,50.55
+BIH,2016,72.01159,Bosnia and Herzegovina,Europe,Southern Europe,44.0,18.0
+BLR,2016,270.4213,Belarus,Europe,Eastern Europe,53.0,28.0
+BLZ,2016,6.787421,Belize,Americas,Central America,17.25,-88.75
+BOL,2016,767.4838,Bolivia,Americas,South America,-17.0,-65.0
+BRA,2016,3540.531,Brazil,Americas,South America,-10.0,-55.0
+BRB,2016,0.493305,Barbados,Americas,Caribbean,13.1667,-59.5333
+BTN,2016,76.45352,Bhutan,Asia,Southern Asia,27.5,90.5
+BWA,2016,204.8949,Botswana,Africa,Southern Africa,-22.0,24.0
+CAF,2016,2671.418,Central African Republic,Africa,Middle Africa,7.0,21.0
+CAN,2016,61.08475,Canada,Americas,Northern America,60.0,-95.0
+CHE,2016,14.85787,Switzerland,Europe,Western Europe,47.0,8.0
+CHL,2016,241.1156,Chile,Americas,South America,-30.0,-71.0
+CHN,2016,29286.7,China,Asia,Eastern Asia,35.0,105.0
+CMR,2016,4273.117,Cameroon,Africa,Middle Africa,6.0,12.0
+COD,2016,28326.29,Democratic Republic of the Congo,Africa,Middle Africa,0.0,25.0
+COL,2016,1005.744,Colombia,Americas,South America,4.0,-72.0
+COM,2016,33.91297,Comoros,Africa,Eastern Africa,-12.1667,44.25
+CRI,2016,26.09597,Costa Rica,Americas,Central America,10.0,-84.0
+CUB,2016,35.48266,Cuba,Americas,Caribbean,21.5,-80.0
+CYP,2016,2.829201,Cyprus,Europe,Southern Europe,35.0,33.0
+DEU,2016,195.572,Germany,Europe,Western Europe,51.0,9.0
+DJI,2016,200.2392,Djibouti,Africa,Eastern Africa,11.5,43.0
+DNK,2016,15.78533,Denmark,Europe,Northern Europe,56.0,10.0
+DOM,2016,241.447,Dominican Republic,Americas,Caribbean,19.0,-70.6667
+DZA,2016,1798.187,Algeria,Africa,Northern Africa,28.0,3.0
+ECU,2016,430.9076,Ecuador,Americas,South America,-2.0,-77.5
+EGY,2016,290.3951,Egypt,Africa,Northern Africa,27.0,30.0
+ERI,2016,341.7432,Eritrea,Africa,Eastern Africa,15.0,39.0
+ESP,2016,146.3951,Spain,Europe,Southern Europe,40.0,-4.0
+EST,2016,22.15226,Estonia,Europe,Northern Europe,59.0,26.0
+ETH,2016,14575.25,Ethiopia,Africa,Eastern Africa,8.0,38.0
+FIN,2016,17.0969,Finland,Europe,Northern Europe,64.0,26.0
+FJI,2016,21.98712,Fiji,Oceania,Melanesia,-18.0,175.0
+FRA,2016,223.0679,France,Europe,Western Europe,46.0,2.0
+GAB,2016,888.608,Gabon,Africa,Middle Africa,-1.0,11.75
+GBR,2016,182.5941,United Kingdom,Europe,Northern Europe,54.0,-2.0
+GEO,2016,114.2891,Georgia,Asia,Western Asia,42.0,43.5
+GHA,2016,6043.853,Ghana,Africa,Western Africa,8.0,-2.0
+GIN,2016,1753.099,Guinea,Africa,Western Africa,11.0,-10.0
+GNB,2016,786.7102,Guinea-Bissau,Africa,Western Africa,12.0,-15.0
+GNQ,2016,101.065,Equatorial Guinea,Africa,Middle Africa,2.0,10.0
+GRC,2016,32.98949,Greece,Europe,Southern Europe,39.0,22.0
+GRD,2016,1.253803,Grenada,Americas,Caribbean,12.1167,-61.6667
+GTM,2016,218.1165,Guatemala,Americas,Central America,15.5,-90.25
+GUY,2016,93.58767,Guyana,Americas,South America,5.0,-59.0
+HND,2016,232.0794,Honduras,Americas,Central America,15.0,-86.5
+HRV,2016,39.25018,Croatia,Europe,Southern Europe,45.1667,15.5
+HTI,2016,584.8035,Haiti,Americas,Caribbean,19.0,-72.4167
+HUN,2016,48.74674,Hungary,Europe,Eastern Europe,47.0,20.0
+IDN,2016,52942.88,Indonesia,Asia,South-Eastern Asia,-5.0,120.0
+IND,2016,275715.8,India,Asia,Southern Asia,20.0,77.0
+IRL,2016,11.84846,Ireland,Europe,Northern Europe,53.0,-8.0
+IRN,2016,490.3723,Iran,Asia,Southern Asia,32.0,53.0
+IRQ,2016,500.7105,Iraq,Asia,Western Asia,33.0,44.0
+ISL,2016,0.0,Iceland,Europe,Northern Europe,65.0,-18.0
+ISR,2016,7.394773,Israel,Asia,Western Asia,31.5,34.75
+ITA,2016,179.4855,Italy,Europe,Southern Europe,42.8333,12.8333
+JAM,2016,6.424491,Jamaica,Americas,Caribbean,18.25,-77.5
+JOR,2016,3.772827,Jordan,Asia,Western Asia,31.0,36.0
+JPN,2016,1673.735,Japan,Asia,Eastern Asia,36.0,138.0
+KAZ,2016,530.5455,Kazakhstan,Asia,Central Asia,48.0,68.0
+KEN,2016,19678.62,Kenya,Africa,Eastern Africa,1.0,38.0
+KGZ,2016,342.952,Kyrgyzstan,Asia,Central Asia,41.0,75.0
+KHM,2016,1940.978,Cambodia,Asia,South-Eastern Asia,13.0,105.0
+KIR,2016,27.32025,Kiribati,Oceania,Micronesia,1.4167,173.0
+KOR,2016,1602.798,South Korea,Asia,Eastern Asia,37.0,127.5
+KWT,2016,20.93999,Kuwait,Asia,Western Asia,29.3375,47.6581
+LAO,2016,1910.048,Lao People's Democratic Republic,Asia,South-Eastern Asia,18.0,105.0
+LBN,2016,22.37104,Lebanon,Asia,Western Asia,33.8333,35.8333
+LBR,2016,1627.165,Liberia,Africa,Western Africa,6.5,-9.5
+LBY,2016,401.0077,Libya,Africa,Northern Africa,25.0,17.0
+LCA,2016,1.344212,Saint Lucia,Americas,Caribbean,13.8833,-61.1333
+LKA,2016,599.1041,Sri Lanka,Asia,Southern Asia,7.0,81.0
+LSO,2016,650.4078,Lesotho,Africa,Southern Africa,-29.5,28.5
+LTU,2016,146.8881,Lithuania,Europe,Northern Europe,56.0,24.0
+LUX,2016,1.060526,Luxembourg,Europe,Western Europe,49.75,6.1667
+LVA,2016,53.9874,Latvia,Europe,Northern Europe,57.0,25.0
+MAR,2016,2076.681,Morocco,Africa,Northern Africa,32.0,-5.0
+MDA,2016,250.1375,Moldova,Europe,Eastern Europe,47.0,29.0
+MDG,2016,7709.826,Madagascar,Africa,Eastern Africa,-20.0,47.0
+MDV,2016,9.224329,Maldives,Asia,Southern Asia,3.25,73.0
+MEX,2016,1526.537,Mexico,Americas,Central America,23.0,-102.0
+MLI,2016,823.6729,Mali,Africa,Western Africa,17.0,-4.0
+MLT,2016,0.6568358,Malta,Europe,Southern Europe,35.8333,14.5833
+MNG,2016,231.5544,Mongolia,Asia,Eastern Asia,46.0,105.0
+MOZ,2016,4524.035,Mozambique,Africa,Eastern Africa,-18.25,35.0
+MRT,2016,524.6191,Mauritania,Africa,Western Africa,20.0,-12.0
+MUS,2016,13.55281,Mauritius,Africa,Eastern Africa,-20.2833,57.55
+MWI,2016,1938.265,Malawi,Africa,Eastern Africa,-13.5,34.0
+MYS,2016,783.7394,Malaysia,Asia,South-Eastern Asia,2.5,112.5
+NAM,2016,1003.148,Namibia,Africa,Southern Africa,-22.0,17.0
+NER,2016,2604.508,Niger,Africa,Western Africa,16.0,8.0
+NGA,2016,74901.11,Nigeria,Africa,Western Africa,10.0,8.0
+NIC,2016,99.42933,Nicaragua,Americas,Central America,13.0,-85.0
+NLD,2016,13.71817,Netherlands,Europe,Western Europe,52.5,5.75
+NOR,2016,6.44612,Norway,Europe,Northern Europe,62.0,10.0
+NPL,2016,11716.74,Nepal,Asia,Southern Asia,28.0,84.0
+NZL,2016,4.098214,New Zealand,Oceania,Australia and New Zealand,-41.0,174.0
+OMN,2016,12.03508,Oman,Asia,Western Asia,21.0,57.0
+PAK,2016,25512.23,Pakistan,Asia,Southern Asia,30.0,70.0
+PAN,2016,132.6519,Panama,Americas,Central America,9.0,-80.0
+PER,2016,1942.706,Peru,Americas,South America,-10.0,-76.0
+PHL,2016,18597.4,Philippines,Asia,South-Eastern Asia,13.0,122.0
+PNG,2016,2153.143,Papua New Guinea,Oceania,Melanesia,-6.0,147.0
+POL,2016,489.6681,Poland,Europe,Eastern Europe,52.0,20.0
+PRK,2016,6782.577,North Korea,Asia,Eastern Asia,40.0,127.0
+PRT,2016,129.7693,Portugal,Europe,Southern Europe,39.5,-8.0
+PRY,2016,219.2312,Paraguay,Americas,South America,-23.0,-58.0
+QAT,2016,6.300072,Qatar,Asia,Western Asia,25.5,51.25
+ROU,2016,824.8999,Romania,Europe,Eastern Europe,46.0,25.0
+RUS,2016,9509.703,Russian Federation,Europe,Eastern Europe,60.0,100.0
+RWA,2016,456.9759,Rwanda,Africa,Eastern Africa,-2.0,30.0
+SAU,2016,599.9917,Saudi Arabia,Asia,Western Asia,25.0,45.0
+SDN,2016,3360.099,Sudan,Africa,Northern Africa,15.0,30.0
+SEN,2016,1555.396,Senegal,Africa,Western Africa,14.0,-14.0
+SGP,2016,39.43797,Singapore,Asia,South-Eastern Asia,1.3667,103.8
+SLB,2016,35.31265,Solomon Islands,Oceania,Melanesia,-8.0,159.0
+SLE,2016,1996.891,Sierra Leone,Africa,Western Africa,8.5,-11.5
+SLV,2016,43.41436,El Salvador,Americas,Central America,13.8333,-88.9167
+SOM,2016,6126.974,Somalia,Africa,Eastern Africa,10.0,49.0
+SRB,2016,66.31399,Serbia,Europe,Eastern Europe,44.0,21.0
+SSD,2016,3390.572,South Sudan,Africa,Middle Africa,8.0,30.0
+SUR,2016,13.19982,Suriname,Americas,South America,4.0,-56.0
+SVK,2016,17.3721,Slovakia,Europe,Eastern Europe,48.6667,19.5
+SVN,2016,4.00689,Slovenia,Europe,Southern Europe,46.0,15.0
+SWE,2016,16.62133,Sweden,Europe,Northern Europe,62.0,15.0
+SYC,2016,0.33023,Seychelles,Africa,Eastern Africa,-4.5833,55.6667
+SYR,2016,18.20647,Syrian Arab Republic,Asia,Western Asia,35.0,38.0
+TCD,2016,2259.715,Chad,Africa,Middle Africa,15.0,19.0
+TGO,2016,189.4497,Togo,Africa,Western Africa,8.0,1.1667
+THA,2016,6714.182,Thailand,Asia,South-Eastern Asia,15.0,100.0
+TJK,2016,543.0474,Tajikistan,Asia,Central Asia,39.0,71.0
+TKM,2016,370.7421,Turkmenistan,Asia,Central Asia,40.0,60.0
+TON,2016,0.42,Tonga,Oceania,Polynesia,-20.0,-175.0
+TTO,2016,20.2828,Trinidad and Tobago,Americas,Caribbean,11.0,-61.0
+TUN,2016,72.46593,Tunisia,Africa,Northern Africa,34.0,9.0
+TUR,2016,408.5967,Turkey,Asia,Western Asia,39.0,35.0
+UGA,2016,5967.445,Uganda,Africa,Eastern Africa,1.0,32.0
+UKR,2016,2453.445,Ukraine,Europe,Eastern Europe,49.0,32.0
+URY,2016,48.28338,Uruguay,Americas,South America,-33.0,-56.0
+USA,2016,351.1777,United States,Americas,Northern America,38.0,-97.0
+UZB,2016,1017.287,Uzbekistan,Asia,Central Asia,41.0,64.0
+VCT,2016,1.01963,Saint Vincent and the Grenadines,Americas,Caribbean,13.25,-61.2
+VEN,2016,533.5305,Venezuela,Americas,South America,8.0,-66.0
+VNM,2016,8614.834,Vietnam,Asia,South-Eastern Asia,16.0,106.0
+VUT,2016,14.15842,Vanuatu,Oceania,Melanesia,-16.0,167.0
+WSM,2016,0.4095,Samoa,Oceania,Polynesia,-13.5833,-172.3333
+YEM,2016,942.3771,Yemen,Asia,Western Asia,15.0,48.0
+ZAF,2016,12164.88,South Africa,Africa,Southern Africa,-29.0,24.0
+ZMB,2016,2891.43,Zambia,Africa,Eastern Africa,-15.0,30.0
+ZWE,2016,720.6268,Zimbabwe,Africa,Eastern Africa,-20.0,30.0

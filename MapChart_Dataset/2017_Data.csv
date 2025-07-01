@@ -1,0 +1,169 @@
+iso3,year,Tuberculosis_Deaths,Country,region,subregion,latitude,longitude
+AFG,2017,4860.148,Afghanistan,Asia,Southern Asia,33.0,65.0
+AGO,2017,11275.38,Angola,Africa,Middle Africa,-12.5,18.5
+ALB,2017,5.692609,Albania,Europe,Southern Europe,41.0,20.0
+ARE,2017,37.3615,United Arab Emirates,Asia,Western Asia,24.0,54.0
+ARG,2017,399.7932,Argentina,Americas,South America,-34.0,-64.0
+ARM,2017,34.40908,Armenia,Asia,Western Asia,40.0,45.0
+ATG,2017,0.3722919,Antigua and Barbuda,Americas,Caribbean,17.05,-61.8
+AUS,2017,22.55053,Australia,Oceania,Australia and New Zealand,-27.0,133.0
+AUT,2017,18.89838,Austria,Europe,Western Europe,47.3333,13.3333
+AZE,2017,370.302,Azerbaijan,Asia,Western Asia,40.5,47.5
+BDI,2017,1207.941,Burundi,Africa,Eastern Africa,-3.5,30.0
+BEL,2017,28.01336,Belgium,Europe,Western Europe,50.8333,4.0
+BEN,2017,703.2723,Benin,Africa,Western Africa,9.5,2.25
+BFA,2017,1055.668,Burkina Faso,Africa,Western Africa,13.0,-2.0
+BGD,2017,30935.55,Bangladesh,Asia,Southern Asia,24.0,90.0
+BGR,2017,78.01192,Bulgaria,Europe,Eastern Europe,43.0,25.0
+BHR,2017,5.341761,Bahrain,Asia,Western Asia,26.0,50.55
+BIH,2017,66.95354,Bosnia and Herzegovina,Europe,Southern Europe,44.0,18.0
+BLR,2017,228.4162,Belarus,Europe,Eastern Europe,53.0,28.0
+BLZ,2017,7.35754,Belize,Americas,Central America,17.25,-88.75
+BOL,2017,752.918,Bolivia,Americas,South America,-17.0,-65.0
+BRA,2017,3606.24,Brazil,Americas,South America,-10.0,-55.0
+BRB,2017,0.4910751,Barbados,Americas,Caribbean,13.1667,-59.5333
+BTN,2017,58.03141,Bhutan,Asia,Southern Asia,27.5,90.5
+BWA,2017,228.9025,Botswana,Africa,Southern Africa,-22.0,24.0
+CAF,2017,2939.12,Central African Republic,Africa,Middle Africa,7.0,21.0
+CAN,2017,68.73553,Canada,Americas,Northern America,60.0,-95.0
+CHE,2017,9.77931,Switzerland,Europe,Western Europe,47.0,8.0
+CHL,2017,247.7147,Chile,Americas,South America,-30.0,-71.0
+CHN,2017,27504.86,China,Asia,Eastern Asia,35.0,105.0
+CMR,2017,4533.49,Cameroon,Africa,Middle Africa,6.0,12.0
+COD,2017,27539.58,Democratic Republic of the Congo,Africa,Middle Africa,0.0,25.0
+COL,2017,940.395,Colombia,Americas,South America,4.0,-72.0
+COM,2017,44.92375,Comoros,Africa,Eastern Africa,-12.1667,44.25
+CRI,2017,28.97143,Costa Rica,Americas,Central America,10.0,-84.0
+CUB,2017,30.40867,Cuba,Americas,Caribbean,21.5,-80.0
+CYP,2017,1.107358,Cyprus,Europe,Southern Europe,35.0,33.0
+DEU,2017,183.1112,Germany,Europe,Western Europe,51.0,9.0
+DJI,2017,164.138,Djibouti,Africa,Eastern Africa,11.5,43.0
+DNK,2017,11.62956,Denmark,Europe,Northern Europe,56.0,10.0
+DOM,2017,206.4456,Dominican Republic,Americas,Caribbean,19.0,-70.6667
+DZA,2017,1819.729,Algeria,Africa,Northern Africa,28.0,3.0
+ECU,2017,474.145,Ecuador,Americas,South America,-2.0,-77.5
+EGY,2017,296.5307,Egypt,Africa,Northern Africa,27.0,30.0
+ERI,2017,320.9246,Eritrea,Africa,Eastern Africa,15.0,39.0
+ESP,2017,167.0836,Spain,Europe,Southern Europe,40.0,-4.0
+EST,2017,16.63604,Estonia,Europe,Northern Europe,59.0,26.0
+ETH,2017,14424.45,Ethiopia,Africa,Eastern Africa,8.0,38.0
+FIN,2017,13.30574,Finland,Europe,Northern Europe,64.0,26.0
+FJI,2017,22.74779,Fiji,Oceania,Melanesia,-18.0,175.0
+FRA,2017,227.2436,France,Europe,Western Europe,46.0,2.0
+GAB,2017,1009.601,Gabon,Africa,Middle Africa,-1.0,11.75
+GBR,2017,200.4794,United Kingdom,Europe,Northern Europe,54.0,-2.0
+GEO,2017,107.7767,Georgia,Asia,Western Asia,42.0,43.5
+GHA,2017,6144.583,Ghana,Africa,Western Africa,8.0,-2.0
+GIN,2017,1644.985,Guinea,Africa,Western Africa,11.0,-10.0
+GNB,2017,827.894,Guinea-Bissau,Africa,Western Africa,12.0,-15.0
+GNQ,2017,140.99,Equatorial Guinea,Africa,Middle Africa,2.0,10.0
+GRC,2017,34.12251,Greece,Europe,Southern Europe,39.0,22.0
+GRD,2017,0.893964,Grenada,Americas,Caribbean,12.1167,-61.6667
+GTM,2017,217.1729,Guatemala,Americas,Central America,15.5,-90.25
+GUY,2017,96.72181,Guyana,Americas,South America,5.0,-59.0
+HND,2017,242.7197,Honduras,Americas,Central America,15.0,-86.5
+HRV,2017,38.38922,Croatia,Europe,Southern Europe,45.1667,15.5
+HTI,2017,575.4844,Haiti,Americas,Caribbean,19.0,-72.4167
+HUN,2017,43.48156,Hungary,Europe,Eastern Europe,47.0,20.0
+IDN,2017,52216.53,Indonesia,Asia,South-Eastern Asia,-5.0,120.0
+IND,2017,273681.5,India,Asia,Southern Asia,20.0,77.0
+IRL,2017,12.19682,Ireland,Europe,Northern Europe,53.0,-8.0
+IRN,2017,490.6929,Iran,Asia,Southern Asia,32.0,53.0
+IRQ,2017,485.4857,Iraq,Asia,Western Asia,33.0,44.0
+ISL,2017,0.0,Iceland,Europe,Northern Europe,65.0,-18.0
+ISR,2017,7.581621,Israel,Asia,Western Asia,31.5,34.75
+ITA,2017,191.2099,Italy,Europe,Southern Europe,42.8333,12.8333
+JAM,2017,6.456779,Jamaica,Americas,Caribbean,18.25,-77.5
+JOR,2017,3.864263,Jordan,Asia,Western Asia,31.0,36.0
+JPN,2017,2197.66,Japan,Asia,Eastern Asia,36.0,138.0
+KAZ,2017,493.4406,Kazakhstan,Asia,Central Asia,48.0,68.0
+KEN,2017,16877.46,Kenya,Africa,Eastern Africa,1.0,38.0
+KGZ,2017,314.5348,Kyrgyzstan,Asia,Central Asia,41.0,75.0
+KHM,2017,1880.648,Cambodia,Asia,South-Eastern Asia,13.0,105.0
+KIR,2017,27.40267,Kiribati,Oceania,Micronesia,1.4167,173.0
+KOR,2017,1326.533,South Korea,Asia,Eastern Asia,37.0,127.5
+KWT,2017,21.26834,Kuwait,Asia,Western Asia,29.3375,47.6581
+LAO,2017,1656.91,Lao People's Democratic Republic,Asia,South-Eastern Asia,18.0,105.0
+LBN,2017,21.42589,Lebanon,Asia,Western Asia,33.8333,35.8333
+LBR,2017,1594.408,Liberia,Africa,Western Africa,6.5,-9.5
+LBY,2017,353.2562,Libya,Africa,Northern Africa,25.0,17.0
+LCA,2017,1.377844,Saint Lucia,Americas,Caribbean,13.8833,-61.1333
+LKA,2017,564.0931,Sri Lanka,Asia,Southern Asia,7.0,81.0
+LSO,2017,652.4349,Lesotho,Africa,Southern Africa,-29.5,28.5
+LTU,2017,133.07,Lithuania,Europe,Northern Europe,56.0,24.0
+LUX,2017,1.10974,Luxembourg,Europe,Western Europe,49.75,6.1667
+LVA,2017,60.20789,Latvia,Europe,Northern Europe,57.0,25.0
+MAR,2017,2035.963,Morocco,Africa,Northern Africa,32.0,-5.0
+MDA,2017,209.2724,Moldova,Europe,Eastern Europe,47.0,29.0
+MDG,2017,7606.988,Madagascar,Africa,Eastern Africa,-20.0,47.0
+MDV,2017,8.308108,Maldives,Asia,Southern Asia,3.25,73.0
+MEX,2017,1491.866,Mexico,Americas,Central America,23.0,-102.0
+MLI,2017,988.4376,Mali,Africa,Western Africa,17.0,-4.0
+MLT,2017,0.0,Malta,Europe,Southern Europe,35.8333,14.5833
+MNG,2017,230.9951,Mongolia,Asia,Eastern Asia,46.0,105.0
+MOZ,2017,3461.088,Mozambique,Africa,Eastern Africa,-18.25,35.0
+MRT,2017,485.2939,Mauritania,Africa,Western Africa,20.0,-12.0
+MUS,2017,14.17531,Mauritius,Africa,Eastern Africa,-20.2833,57.55
+MWI,2017,1727.839,Malawi,Africa,Eastern Africa,-13.5,34.0
+MYS,2017,785.7991,Malaysia,Asia,South-Eastern Asia,2.5,112.5
+NAM,2017,962.7278,Namibia,Africa,Southern Africa,-22.0,17.0
+NER,2017,2537.233,Niger,Africa,Western Africa,16.0,8.0
+NGA,2017,77917.81,Nigeria,Africa,Western Africa,10.0,8.0
+NIC,2017,101.4675,Nicaragua,Americas,Central America,13.0,-85.0
+NLD,2017,13.83093,Netherlands,Europe,Western Europe,52.5,5.75
+NOR,2017,5.650295,Norway,Europe,Northern Europe,62.0,10.0
+NPL,2017,11478.81,Nepal,Asia,Southern Asia,28.0,84.0
+NZL,2017,8.227379,New Zealand,Oceania,Australia and New Zealand,-41.0,174.0
+OMN,2017,12.07815,Oman,Asia,Western Asia,21.0,57.0
+PAK,2017,25083.42,Pakistan,Asia,Southern Asia,30.0,70.0
+PAN,2017,149.6217,Panama,Americas,Central America,9.0,-80.0
+PER,2017,1479.551,Peru,Americas,South America,-10.0,-76.0
+PHL,2017,18301.84,Philippines,Asia,South-Eastern Asia,13.0,122.0
+PNG,2017,2434.364,Papua New Guinea,Oceania,Melanesia,-6.0,147.0
+POL,2017,470.7379,Poland,Europe,Eastern Europe,52.0,20.0
+PRK,2017,9994.721,North Korea,Asia,Eastern Asia,40.0,127.0
+PRT,2017,132.3302,Portugal,Europe,Southern Europe,39.5,-8.0
+PRY,2017,192.9073,Paraguay,Americas,South America,-23.0,-58.0
+QAT,2017,6.369155,Qatar,Asia,Western Asia,25.5,51.25
+ROU,2017,768.5831,Romania,Europe,Eastern Europe,46.0,25.0
+RUS,2017,8263.783,Russian Federation,Europe,Eastern Europe,60.0,100.0
+RWA,2017,439.2643,Rwanda,Africa,Eastern Africa,-2.0,30.0
+SAU,2017,576.5439,Saudi Arabia,Asia,Western Asia,25.0,45.0
+SDN,2017,3020.021,Sudan,Africa,Northern Africa,15.0,30.0
+SEN,2017,1538.87,Senegal,Africa,Western Africa,14.0,-14.0
+SGP,2017,35.43616,Singapore,Asia,South-Eastern Asia,1.3667,103.8
+SLB,2017,32.76522,Solomon Islands,Oceania,Melanesia,-8.0,159.0
+SLE,2017,1713.774,Sierra Leone,Africa,Western Africa,8.5,-11.5
+SLV,2017,41.39852,El Salvador,Americas,Central America,13.8333,-88.9167
+SOM,2017,5748.034,Somalia,Africa,Eastern Africa,10.0,49.0
+SRB,2017,74.31407,Serbia,Europe,Eastern Europe,44.0,21.0
+SSD,2017,3544.817,South Sudan,Africa,Middle Africa,8.0,30.0
+SUR,2017,13.72701,Suriname,Americas,South America,4.0,-56.0
+SVK,2017,17.55527,Slovakia,Europe,Eastern Europe,48.6667,19.5
+SVN,2017,6.241921,Slovenia,Europe,Southern Europe,46.0,15.0
+SWE,2017,11.48064,Sweden,Europe,Northern Europe,62.0,15.0
+SYC,2017,0.2229756,Seychelles,Africa,Eastern Africa,-4.5833,55.6667
+SYR,2017,16.26216,Syrian Arab Republic,Asia,Western Asia,35.0,38.0
+TCD,2017,2247.525,Chad,Africa,Middle Africa,15.0,19.0
+TGO,2017,169.14,Togo,Africa,Western Africa,8.0,1.1667
+THA,2017,6785.717,Thailand,Asia,South-Eastern Asia,15.0,100.0
+TJK,2017,536.6643,Tajikistan,Asia,Central Asia,39.0,71.0
+TKM,2017,363.3265,Turkmenistan,Asia,Central Asia,40.0,60.0
+TON,2017,0.5775,Tonga,Oceania,Polynesia,-20.0,-175.0
+TTO,2017,19.94871,Trinidad and Tobago,Americas,Caribbean,11.0,-61.0
+TUN,2017,70.92282,Tunisia,Africa,Northern Africa,34.0,9.0
+TUR,2017,337.6769,Turkey,Asia,Western Asia,39.0,35.0
+UGA,2017,6294.119,Uganda,Africa,Eastern Africa,1.0,32.0
+UKR,2017,2352.622,Ukraine,Europe,Eastern Europe,49.0,32.0
+URY,2017,45.32776,Uruguay,Americas,South America,-33.0,-56.0
+USA,2017,336.4285,United States,Americas,Northern America,38.0,-97.0
+UZB,2017,958.3658,Uzbekistan,Asia,Central Asia,41.0,64.0
+VCT,2017,1.035007,Saint Vincent and the Grenadines,Americas,Caribbean,13.25,-61.2
+VEN,2017,529.775,Venezuela,Americas,South America,8.0,-66.0
+VNM,2017,7839.832,Vietnam,Asia,South-Eastern Asia,16.0,106.0
+VUT,2017,13.41559,Vanuatu,Oceania,Melanesia,-16.0,167.0
+WSM,2017,0.945,Samoa,Oceania,Polynesia,-13.5833,-172.3333
+YEM,2017,955.0588,Yemen,Asia,Western Asia,15.0,48.0
+ZAF,2017,12471.22,South Africa,Africa,Southern Africa,-29.0,24.0
+ZMB,2017,2983.44,Zambia,Africa,Eastern Africa,-15.0,30.0
+ZWE,2017,956.3198,Zimbabwe,Africa,Eastern Africa,-20.0,30.0

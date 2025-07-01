@@ -1,0 +1,169 @@
+iso3,year,Tuberculosis_Deaths,Country,region,subregion,latitude,longitude
+AFG,2007,4749.715,Afghanistan,Asia,Southern Asia,33.0,65.0
+AGO,2007,9390.164,Angola,Africa,Middle Africa,-12.5,18.5
+ALB,2007,10.60299,Albania,Europe,Southern Europe,41.0,20.0
+ARE,2007,26.45969,United Arab Emirates,Asia,Western Asia,24.0,54.0
+ARG,2007,485.4324,Argentina,Americas,South America,-34.0,-64.0
+ARM,2007,175.7632,Armenia,Asia,Western Asia,40.0,45.0
+ATG,2007,0.6375927,Antigua and Barbuda,Americas,Caribbean,17.05,-61.8
+AUS,2007,31.82416,Australia,Oceania,Australia and New Zealand,-27.0,133.0
+AUT,2007,26.18764,Austria,Europe,Western Europe,47.3333,13.3333
+AZE,2007,230.6715,Azerbaijan,Asia,Western Asia,40.5,47.5
+BDI,2007,1387.523,Burundi,Africa,Eastern Africa,-3.5,30.0
+BEL,2007,49.06811,Belgium,Europe,Western Europe,50.8333,4.0
+BEN,2007,570.2222,Benin,Africa,Western Africa,9.5,2.25
+BFA,2007,985.7677,Burkina Faso,Africa,Western Africa,13.0,-2.0
+BGD,2007,43338.17,Bangladesh,Asia,Southern Asia,24.0,90.0
+BGR,2007,228.4351,Bulgaria,Europe,Eastern Europe,43.0,25.0
+BHR,2007,6.757726,Bahrain,Asia,Western Asia,26.0,50.55
+BIH,2007,121.0303,Bosnia and Herzegovina,Europe,Southern Europe,44.0,18.0
+BLR,2007,737.2237,Belarus,Europe,Eastern Europe,53.0,28.0
+BLZ,2007,7.776068,Belize,Americas,Central America,17.25,-88.75
+BOL,2007,1039.586,Bolivia,Americas,South America,-17.0,-65.0
+BRA,2007,4125.92,Brazil,Americas,South America,-10.0,-55.0
+BRB,2007,0.9109742,Barbados,Americas,Caribbean,13.1667,-59.5333
+BTN,2007,63.42198,Bhutan,Asia,Southern Asia,27.5,90.5
+BWA,2007,381.9756,Botswana,Africa,Southern Africa,-22.0,24.0
+CAF,2007,2164.862,Central African Republic,Africa,Middle Africa,7.0,21.0
+CAN,2007,65.86242,Canada,Americas,Northern America,60.0,-95.0
+CHE,2007,17.51757,Switzerland,Europe,Western Europe,47.0,8.0
+CHL,2007,363.3282,Chile,Americas,South America,-30.0,-71.0
+CHN,2007,45914.0,China,Asia,Eastern Asia,35.0,105.0
+CMR,2007,4564.411,Cameroon,Africa,Middle Africa,6.0,12.0
+COD,2007,22441.52,Democratic Republic of the Congo,Africa,Middle Africa,0.0,25.0
+COL,2007,1110.429,Colombia,Americas,South America,4.0,-72.0
+COM,2007,29.72051,Comoros,Africa,Eastern Africa,-12.1667,44.25
+CRI,2007,33.03899,Costa Rica,Americas,Central America,10.0,-84.0
+CUB,2007,27.25664,Cuba,Americas,Caribbean,21.5,-80.0
+CYP,2007,1.27092,Cyprus,Europe,Southern Europe,35.0,33.0
+DEU,2007,279.7521,Germany,Europe,Western Europe,51.0,9.0
+DJI,2007,231.2987,Djibouti,Africa,Eastern Africa,11.5,43.0
+DNK,2007,19.39359,Denmark,Europe,Northern Europe,56.0,10.0
+DOM,2007,509.3862,Dominican Republic,Americas,Caribbean,19.0,-70.6667
+DZA,2007,1693.942,Algeria,Africa,Northern Africa,28.0,3.0
+ECU,2007,713.9618,Ecuador,Americas,South America,-2.0,-77.5
+EGY,2007,600.1605,Egypt,Africa,Northern Africa,27.0,30.0
+ERI,2007,492.2578,Eritrea,Africa,Eastern Africa,15.0,39.0
+ESP,2007,281.0582,Spain,Europe,Southern Europe,40.0,-4.0
+EST,2007,51.97577,Estonia,Europe,Northern Europe,59.0,26.0
+ETH,2007,23954.44,Ethiopia,Africa,Eastern Africa,8.0,38.0
+FIN,2007,30.38594,Finland,Europe,Northern Europe,64.0,26.0
+FJI,2007,21.40798,Fiji,Oceania,Melanesia,-18.0,175.0
+FRA,2007,378.2633,France,Europe,Western Europe,46.0,2.0
+GAB,2007,868.181,Gabon,Africa,Middle Africa,-1.0,11.75
+GBR,2007,248.3569,United Kingdom,Europe,Northern Europe,54.0,-2.0
+GEO,2007,127.215,Georgia,Asia,Western Asia,42.0,43.5
+GHA,2007,5916.136,Ghana,Africa,Western Africa,8.0,-2.0
+GIN,2007,2033.821,Guinea,Africa,Western Africa,11.0,-10.0
+GNB,2007,481.6999,Guinea-Bissau,Africa,Western Africa,12.0,-15.0
+GNQ,2007,38.52314,Equatorial Guinea,Africa,Middle Africa,2.0,10.0
+GRC,2007,70.2746,Greece,Europe,Southern Europe,39.0,22.0
+GRD,2007,1.161414,Grenada,Americas,Caribbean,12.1167,-61.6667
+GTM,2007,218.8889,Guatemala,Americas,Central America,15.5,-90.25
+GUY,2007,82.71423,Guyana,Americas,South America,5.0,-59.0
+HND,2007,231.6916,Honduras,Americas,Central America,15.0,-86.5
+HRV,2007,66.44075,Croatia,Europe,Southern Europe,45.1667,15.5
+HTI,2007,588.7465,Haiti,Americas,Caribbean,19.0,-72.4167
+HUN,2007,171.2067,Hungary,Europe,Eastern Europe,47.0,20.0
+IDN,2007,64816.05,Indonesia,Asia,South-Eastern Asia,-5.0,120.0
+IND,2007,332765.8,India,Asia,Southern Asia,20.0,77.0
+IRL,2007,33.71952,Ireland,Europe,Northern Europe,53.0,-8.0
+IRN,2007,425.8955,Iran,Asia,Southern Asia,32.0,53.0
+IRQ,2007,678.2818,Iraq,Asia,Western Asia,33.0,44.0
+ISL,2007,0.3457943,Iceland,Europe,Northern Europe,65.0,-18.0
+ISR,2007,27.7806,Israel,Asia,Western Asia,31.5,34.75
+ITA,2007,245.2561,Italy,Europe,Southern Europe,42.8333,12.8333
+JAM,2007,9.812749,Jamaica,Americas,Caribbean,18.25,-77.5
+JOR,2007,14.40809,Jordan,Asia,Western Asia,31.0,36.0
+JPN,2007,2582.552,Japan,Asia,Eastern Asia,36.0,138.0
+KAZ,2007,2383.109,Kazakhstan,Asia,Central Asia,48.0,68.0
+KEN,2007,20988.52,Kenya,Africa,Eastern Africa,1.0,38.0
+KGZ,2007,540.2984,Kyrgyzstan,Asia,Central Asia,41.0,75.0
+KHM,2007,2372.52,Cambodia,Asia,South-Eastern Asia,13.0,105.0
+KIR,2007,26.23982,Kiribati,Oceania,Micronesia,1.4167,173.0
+KOR,2007,2029.019,South Korea,Asia,Eastern Asia,37.0,127.5
+KWT,2007,27.36508,Kuwait,Asia,Western Asia,29.3375,47.6581
+LAO,2007,2960.358,Lao People's Democratic Republic,Asia,South-Eastern Asia,18.0,105.0
+LBN,2007,16.45458,Lebanon,Asia,Western Asia,33.8333,35.8333
+LBR,2007,898.1077,Liberia,Africa,Western Africa,6.5,-9.5
+LBY,2007,107.7088,Libya,Africa,Northern Africa,25.0,17.0
+LCA,2007,1.650678,Saint Lucia,Americas,Caribbean,13.8833,-61.1333
+LKA,2007,821.1441,Sri Lanka,Asia,Southern Asia,7.0,81.0
+LSO,2007,1011.287,Lesotho,Africa,Southern Africa,-29.5,28.5
+LTU,2007,297.717,Lithuania,Europe,Northern Europe,56.0,24.0
+LUX,2007,0.9996516,Luxembourg,Europe,Western Europe,49.75,6.1667
+LVA,2007,117.9695,Latvia,Europe,Northern Europe,57.0,25.0
+MAR,2007,1700.598,Morocco,Africa,Northern Africa,32.0,-5.0
+MDA,2007,621.776,Moldova,Europe,Eastern Europe,47.0,29.0
+MDG,2007,7312.982,Madagascar,Africa,Eastern Africa,-20.0,47.0
+MDV,2007,4.527383,Maldives,Asia,Southern Asia,3.25,73.0
+MEX,2007,1567.147,Mexico,Americas,Central America,23.0,-102.0
+MLI,2007,948.0578,Mali,Africa,Western Africa,17.0,-4.0
+MLT,2007,2.772209,Malta,Europe,Southern Europe,35.8333,14.5833
+MNG,2007,280.1569,Mongolia,Asia,Eastern Asia,46.0,105.0
+MOZ,2007,5125.422,Mozambique,Africa,Eastern Africa,-18.25,35.0
+MRT,2007,584.7333,Mauritania,Africa,Western Africa,20.0,-12.0
+MUS,2007,10.48443,Mauritius,Africa,Eastern Africa,-20.2833,57.55
+MWI,2007,2305.183,Malawi,Africa,Eastern Africa,-13.5,34.0
+MYS,2007,901.0762,Malaysia,Asia,South-Eastern Asia,2.5,112.5
+NAM,2007,716.198,Namibia,Africa,Southern Africa,-22.0,17.0
+NER,2007,2589.837,Niger,Africa,Western Africa,16.0,8.0
+NGA,2007,53072.17,Nigeria,Africa,Western Africa,10.0,8.0
+NIC,2007,154.047,Nicaragua,Americas,Central America,13.0,-85.0
+NLD,2007,28.21592,Netherlands,Europe,Western Europe,52.5,5.75
+NOR,2007,12.66943,Norway,Europe,Northern Europe,62.0,10.0
+NPL,2007,16318.66,Nepal,Asia,Southern Asia,28.0,84.0
+NZL,2007,10.14973,New Zealand,Oceania,Australia and New Zealand,-41.0,174.0
+OMN,2007,10.93423,Oman,Asia,Western Asia,21.0,57.0
+PAK,2007,28319.37,Pakistan,Asia,Southern Asia,30.0,70.0
+PAN,2007,133.3504,Panama,Americas,Central America,9.0,-80.0
+PER,2007,1770.139,Peru,Americas,South America,-10.0,-76.0
+PHL,2007,20308.1,Philippines,Asia,South-Eastern Asia,13.0,122.0
+PNG,2007,3116.617,Papua New Guinea,Oceania,Melanesia,-6.0,147.0
+POL,2007,685.82,Poland,Europe,Eastern Europe,52.0,20.0
+PRK,2007,18791.98,North Korea,Asia,Eastern Asia,40.0,127.0
+PRT,2007,204.1492,Portugal,Europe,Southern Europe,39.5,-8.0
+PRY,2007,189.8563,Paraguay,Americas,South America,-23.0,-58.0
+QAT,2007,3.125138,Qatar,Asia,Western Asia,25.5,51.25
+ROU,2007,1344.213,Romania,Europe,Eastern Europe,46.0,25.0
+RUS,2007,21323.32,Russian Federation,Europe,Eastern Europe,60.0,100.0
+RWA,2007,494.3477,Rwanda,Africa,Eastern Africa,-2.0,30.0
+SAU,2007,738.6019,Saudi Arabia,Asia,Western Asia,25.0,45.0
+SDN,2007,7156.651,Sudan,Africa,Northern Africa,15.0,30.0
+SEN,2007,1541.674,Senegal,Africa,Western Africa,14.0,-14.0
+SGP,2007,78.13883,Singapore,Asia,South-Eastern Asia,1.3667,103.8
+SLB,2007,34.87344,Solomon Islands,Oceania,Melanesia,-8.0,159.0
+SLE,2007,2332.589,Sierra Leone,Africa,Western Africa,8.5,-11.5
+SLV,2007,71.20652,El Salvador,Americas,Central America,13.8333,-88.9167
+SOM,2007,4990.192,Somalia,Africa,Eastern Africa,10.0,49.0
+SRB,2007,183.5636,Serbia,Europe,Eastern Europe,44.0,21.0
+SSD,2007,2760.62,South Sudan,Africa,Middle Africa,8.0,30.0
+SUR,2007,8.753302,Suriname,Americas,South America,4.0,-56.0
+SVK,2007,21.61216,Slovakia,Europe,Eastern Europe,48.6667,19.5
+SVN,2007,16.45251,Slovenia,Europe,Southern Europe,46.0,15.0
+SWE,2007,27.96086,Sweden,Europe,Northern Europe,62.0,15.0
+SYC,2007,0.9451215,Seychelles,Africa,Eastern Africa,-4.5833,55.6667
+SYR,2007,34.44125,Syrian Arab Republic,Asia,Western Asia,35.0,38.0
+TCD,2007,2186.259,Chad,Africa,Middle Africa,15.0,19.0
+TGO,2007,384.3573,Togo,Africa,Western Africa,8.0,1.1667
+THA,2007,6719.552,Thailand,Asia,South-Eastern Asia,15.0,100.0
+TJK,2007,627.4636,Tajikistan,Asia,Central Asia,39.0,71.0
+TKM,2007,447.7045,Turkmenistan,Asia,Central Asia,40.0,60.0
+TON,2007,1.2075,Tonga,Oceania,Polynesia,-20.0,-175.0
+TTO,2007,19.58564,Trinidad and Tobago,Americas,Caribbean,11.0,-61.0
+TUN,2007,82.08125,Tunisia,Africa,Northern Africa,34.0,9.0
+TUR,2007,598.1529,Turkey,Asia,Western Asia,39.0,35.0
+UGA,2007,3246.258,Uganda,Africa,Eastern Africa,1.0,32.0
+UKR,2007,4439.02,Ukraine,Europe,Eastern Europe,49.0,32.0
+URY,2007,61.65904,Uruguay,Americas,South America,-33.0,-56.0
+USA,2007,387.7555,United States,Americas,Northern America,38.0,-97.0
+UZB,2007,1663.94,Uzbekistan,Asia,Central Asia,41.0,64.0
+VCT,2007,3.118075,Saint Vincent and the Grenadines,Americas,Caribbean,13.25,-61.2
+VEN,2007,548.167,Venezuela,Americas,South America,8.0,-66.0
+VNM,2007,14384.41,Vietnam,Asia,South-Eastern Asia,16.0,106.0
+VUT,2007,12.27976,Vanuatu,Oceania,Melanesia,-16.0,167.0
+WSM,2007,0.666776,Samoa,Oceania,Polynesia,-13.5833,-172.3333
+YEM,2007,1385.837,Yemen,Asia,Western Asia,15.0,48.0
+ZAF,2007,19487.66,South Africa,Africa,Southern Africa,-29.0,24.0
+ZMB,2007,2180.769,Zambia,Africa,Eastern Africa,-15.0,30.0
+ZWE,2007,2665.995,Zimbabwe,Africa,Eastern Africa,-20.0,30.0

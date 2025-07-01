@@ -1,0 +1,326 @@
+{
+  "name": "Global",
+  "children": [
+    {
+      "name": "Africa",
+      "children": [
+        {
+          "name": "Eastern Africa",
+          "children": [
+            { "name": "Burundi", "value": 1893.482, "year": 2000 },
+            { "name": "Comoros", "value": 27.41285, "year": 2000 },
+            { "name": "Djibouti", "value": 195.2607, "year": 2000 },
+            { "name": "Eritrea", "value": 80.75951, "year": 2000 },
+            { "name": "Ethiopia", "value": 30904.24, "year": 2000 },
+            { "name": "Kenya", "value": 8745.52, "year": 2000 },
+            { "name": "Madagascar", "value": 7948.429, "year": 2000 },
+            { "name": "Malawi", "value": 1436.692, "year": 2000 },
+            { "name": "Mauritius", "value": 4.425836, "year": 2000 },
+            { "name": "Mozambique", "value": 3614.664, "year": 2000 },
+            { "name": "Rwanda", "value": 316.3836, "year": 2000 },
+            { "name": "Seychelles", "value": 1.753875, "year": 2000 },
+            { "name": "Somalia", "value": 4648.712, "year": 2000 },
+            { "name": "Uganda", "value": 3803.159, "year": 2000 },
+            { "name": "Zambia", "value": 2307.307, "year": 2000 },
+            { "name": "Zimbabwe", "value": 2530.362, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Middle Africa",
+          "children": [
+            { "name": "Angola", "value": 7242.015, "year": 2000 },
+            { "name": "Cameroon", "value": 5883.865, "year": 2000 },
+            {
+              "name": "Central African Republic",
+              "value": 1759.502,
+              "year": 2000
+            },
+            { "name": "Chad", "value": 1574.926, "year": 2000 },
+            {
+              "name": "Democratic Republic of the Congo",
+              "value": 16733.75,
+              "year": 2000
+            },
+            { "name": "Equatorial Guinea", "value": 22.02893, "year": 2000 },
+            { "name": "Gabon", "value": 563.1815, "year": 2000 },
+            { "name": "South Sudan", "value": 2046.28, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Northern Africa",
+          "children": [
+            { "name": "Algeria", "value": 1476.303, "year": 2000 },
+            { "name": "Egypt", "value": 743.3377, "year": 2000 },
+            { "name": "Libya", "value": 235.9383, "year": 2000 },
+            { "name": "Morocco", "value": 1903.908, "year": 2000 },
+            { "name": "Sudan", "value": 6554.548, "year": 2000 },
+            { "name": "Tunisia", "value": 81.60404, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Southern Africa",
+          "children": [
+            { "name": "Botswana", "value": 429.1094, "year": 2000 },
+            { "name": "Lesotho", "value": 750.8596, "year": 2000 },
+            { "name": "Namibia", "value": 516.9584, "year": 2000 },
+            { "name": "South Africa", "value": 15305.71, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Western Africa",
+          "children": [
+            { "name": "Benin", "value": 715.2653, "year": 2000 },
+            { "name": "Burkina Faso", "value": 1254.043, "year": 2000 },
+            { "name": "Ghana", "value": 5246.768, "year": 2000 },
+            { "name": "Guinea", "value": 2612.874, "year": 2000 },
+            { "name": "Guinea-Bissau", "value": 394.2029, "year": 2000 },
+            { "name": "Liberia", "value": 810.2139, "year": 2000 },
+            { "name": "Mali", "value": 902.3099, "year": 2000 },
+            { "name": "Mauritania", "value": 915.2457, "year": 2000 },
+            { "name": "Niger", "value": 4168.979, "year": 2000 },
+            { "name": "Nigeria", "value": 52133.19, "year": 2000 },
+            { "name": "Senegal", "value": 1703.714, "year": 2000 },
+            { "name": "Sierra Leone", "value": 2036.738, "year": 2000 },
+            { "name": "Togo", "value": 213.8075, "year": 2000 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Americas",
+      "children": [
+        {
+          "name": "Caribbean",
+          "children": [
+            { "name": "Antigua and Barbuda", "value": 0.406432, "year": 2000 },
+            { "name": "Barbados", "value": 0.0, "year": 2000 },
+            { "name": "Cuba", "value": 41.59545, "year": 2000 },
+            { "name": "Dominican Republic", "value": 623.9666, "year": 2000 },
+            { "name": "Grenada", "value": 1.070861, "year": 2000 },
+            { "name": "Haiti", "value": 837.8197, "year": 2000 },
+            { "name": "Jamaica", "value": 18.59154, "year": 2000 },
+            { "name": "Saint Lucia", "value": 0.7096068, "year": 2000 },
+            {
+              "name": "Saint Vincent and the Grenadines",
+              "value": 3.418963,
+              "year": 2000
+            },
+            { "name": "Trinidad and Tobago", "value": 25.73946, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Central America",
+          "children": [
+            { "name": "Belize", "value": 7.542749, "year": 2000 },
+            { "name": "Costa Rica", "value": 61.0496, "year": 2000 },
+            { "name": "El Salvador", "value": 104.1499, "year": 2000 },
+            { "name": "Guatemala", "value": 370.8931, "year": 2000 },
+            { "name": "Honduras", "value": 247.6839, "year": 2000 },
+            { "name": "Mexico", "value": 2281.426, "year": 2000 },
+            { "name": "Nicaragua", "value": 247.4825, "year": 2000 },
+            { "name": "Panama", "value": 140.885, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Northern America",
+          "children": [
+            { "name": "Canada", "value": 83.22041, "year": 2000 },
+            { "name": "United States", "value": 543.3026, "year": 2000 }
+          ]
+        },
+        {
+          "name": "South America",
+          "children": [
+            { "name": "Argentina", "value": 585.7459, "year": 2000 },
+            { "name": "Bolivia", "value": 1504.936, "year": 2000 },
+            { "name": "Brazil", "value": 5479.554, "year": 2000 },
+            { "name": "Chile", "value": 359.9948, "year": 2000 },
+            { "name": "Colombia", "value": 1089.734, "year": 2000 },
+            { "name": "Ecuador", "value": 1139.878, "year": 2000 },
+            { "name": "Guyana", "value": 66.11452, "year": 2000 },
+            { "name": "Paraguay", "value": 204.2646, "year": 2000 },
+            { "name": "Peru", "value": 2620.913, "year": 2000 },
+            { "name": "Suriname", "value": 5.587453, "year": 2000 },
+            { "name": "Uruguay", "value": 59.38778, "year": 2000 },
+            { "name": "Venezuela", "value": 540.2959, "year": 2000 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Asia",
+      "children": [
+        {
+          "name": "Central Asia",
+          "children": [
+            { "name": "Kazakhstan", "value": 3230.501, "year": 2000 },
+            { "name": "Kyrgyzstan", "value": 833.2344, "year": 2000 },
+            { "name": "Tajikistan", "value": 644.1517, "year": 2000 },
+            { "name": "Turkmenistan", "value": 499.0763, "year": 2000 },
+            { "name": "Uzbekistan", "value": 2162.662, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Eastern Asia",
+          "children": [
+            { "name": "China", "value": 73252.0, "year": 2000 },
+            { "name": "Japan", "value": 3465.927, "year": 2000 },
+            { "name": "Mongolia", "value": 340.8327, "year": 2000 },
+            { "name": "North Korea", "value": 23295.19, "year": 2000 },
+            { "name": "South Korea", "value": 2808.534, "year": 2000 }
+          ]
+        },
+        {
+          "name": "South-Eastern Asia",
+          "children": [
+            { "name": "Cambodia", "value": 3139.269, "year": 2000 },
+            { "name": "Indonesia", "value": 67368.2, "year": 2000 },
+            {
+              "name": "Lao People's Democratic Republic",
+              "value": 4222.128,
+              "year": 2000
+            },
+            { "name": "Malaysia", "value": 1023.995, "year": 2000 },
+            { "name": "Philippines", "value": 24479.11, "year": 2000 },
+            { "name": "Singapore", "value": 80.49748, "year": 2000 },
+            { "name": "Thailand", "value": 8941.989, "year": 2000 },
+            { "name": "Vietnam", "value": 19939.09, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Southern Asia",
+          "children": [
+            { "name": "Afghanistan", "value": 6370.347, "year": 2000 },
+            { "name": "Bangladesh", "value": 51551.43, "year": 2000 },
+            { "name": "Bhutan", "value": 74.04198, "year": 2000 },
+            { "name": "India", "value": 379793.7, "year": 2000 },
+            { "name": "Iran", "value": 386.6335, "year": 2000 },
+            { "name": "Maldives", "value": 9.977019, "year": 2000 },
+            { "name": "Nepal", "value": 20030.4, "year": 2000 },
+            { "name": "Pakistan", "value": 30612.77, "year": 2000 },
+            { "name": "Sri Lanka", "value": 1066.454, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Western Asia",
+          "children": [
+            { "name": "Armenia", "value": 139.0666, "year": 2000 },
+            { "name": "Azerbaijan", "value": 985.315, "year": 2000 },
+            { "name": "Bahrain", "value": 11.53959, "year": 2000 },
+            { "name": "Georgia", "value": 219.5124, "year": 2000 },
+            { "name": "Iraq", "value": 683.656, "year": 2000 },
+            { "name": "Israel", "value": 52.12482, "year": 2000 },
+            { "name": "Jordan", "value": 11.79888, "year": 2000 },
+            { "name": "Kuwait", "value": 19.6782, "year": 2000 },
+            { "name": "Lebanon", "value": 19.82552, "year": 2000 },
+            { "name": "Oman", "value": 13.0693, "year": 2000 },
+            { "name": "Qatar", "value": 4.214302, "year": 2000 },
+            { "name": "Saudi Arabia", "value": 747.8802, "year": 2000 },
+            { "name": "Syrian Arab Republic", "value": 56.79738, "year": 2000 },
+            { "name": "Turkey", "value": 1359.226, "year": 2000 },
+            { "name": "United Arab Emirates", "value": 12.12104, "year": 2000 },
+            { "name": "Yemen", "value": 1688.336, "year": 2000 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "children": [
+        {
+          "name": "Eastern Europe",
+          "children": [
+            { "name": "Belarus", "value": 586.9845, "year": 2000 },
+            { "name": "Bulgaria", "value": 218.2611, "year": 2000 },
+            { "name": "Hungary", "value": 289.6305, "year": 2000 },
+            { "name": "Moldova", "value": 608.3587, "year": 2000 },
+            { "name": "Poland", "value": 913.2449, "year": 2000 },
+            { "name": "Romania", "value": 1771.775, "year": 2000 },
+            { "name": "Russian Federation", "value": 24713.25, "year": 2000 },
+            { "name": "Serbia", "value": 254.1091, "year": 2000 },
+            { "name": "Slovakia", "value": 37.94933, "year": 2000 },
+            { "name": "Ukraine", "value": 4133.909, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Northern Europe",
+          "children": [
+            { "name": "Denmark", "value": 23.9192, "year": 2000 },
+            { "name": "Estonia", "value": 86.94221, "year": 2000 },
+            { "name": "Finland", "value": 64.82895, "year": 2000 },
+            { "name": "Iceland", "value": 0.6631179, "year": 2000 },
+            { "name": "Ireland", "value": 22.72553, "year": 2000 },
+            { "name": "Latvia", "value": 251.1992, "year": 2000 },
+            { "name": "Lithuania", "value": 298.6398, "year": 2000 },
+            { "name": "Norway", "value": 30.46935, "year": 2000 },
+            { "name": "Sweden", "value": 36.85721, "year": 2000 },
+            { "name": "United Kingdom", "value": 271.0611, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Southern Europe",
+          "children": [
+            { "name": "Albania", "value": 15.42311, "year": 2000 },
+            {
+              "name": "Bosnia and Herzegovina",
+              "value": 114.9796,
+              "year": 2000
+            },
+            { "name": "Croatia", "value": 124.6031, "year": 2000 },
+            { "name": "Cyprus", "value": 3.054444, "year": 2000 },
+            { "name": "Greece", "value": 66.42822, "year": 2000 },
+            { "name": "Italy", "value": 307.7653, "year": 2000 },
+            { "name": "Malta", "value": 1.718509, "year": 2000 },
+            { "name": "Portugal", "value": 304.826, "year": 2000 },
+            { "name": "Slovenia", "value": 9.637526, "year": 2000 },
+            { "name": "Spain", "value": 347.2927, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Western Europe",
+          "children": [
+            { "name": "Austria", "value": 48.76238, "year": 2000 },
+            { "name": "Belgium", "value": 72.76267, "year": 2000 },
+            { "name": "France", "value": 640.3183, "year": 2000 },
+            { "name": "Germany", "value": 404.6001, "year": 2000 },
+            { "name": "Luxembourg", "value": 1.796045, "year": 2000 },
+            { "name": "Netherlands", "value": 51.333, "year": 2000 },
+            { "name": "Switzerland", "value": 26.49689, "year": 2000 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oceania",
+      "children": [
+        {
+          "name": "Australia and New Zealand",
+          "children": [
+            { "name": "Australia", "value": 32.35724, "year": 2000 },
+            { "name": "New Zealand", "value": 13.15325, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Melanesia",
+          "children": [
+            { "name": "Fiji", "value": 9.539714, "year": 2000 },
+            { "name": "Papua New Guinea", "value": 3191.8, "year": 2000 },
+            { "name": "Solomon Islands", "value": 26.52841, "year": 2000 },
+            { "name": "Vanuatu", "value": 13.48699, "year": 2000 }
+          ]
+        },
+        {
+          "name": "Micronesia",
+          "children": [{ "name": "Kiribati", "value": 25.10406, "year": 2000 }]
+        },
+        {
+          "name": "Polynesia",
+          "children": [
+            { "name": "Samoa", "value": 1.3545, "year": 2000 },
+            { "name": "Tonga", "value": 1.26, "year": 2000 }
+          ]
+        }
+      ]
+    }
+  ]
+}

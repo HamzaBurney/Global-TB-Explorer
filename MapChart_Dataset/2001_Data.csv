@@ -1,0 +1,169 @@
+iso3,year,Tuberculosis_Deaths,Country,region,subregion,latitude,longitude
+AFG,2001,6116.266,Afghanistan,Asia,Southern Asia,33.0,65.0
+AGO,2001,6927.739,Angola,Africa,Middle Africa,-12.5,18.5
+ALB,2001,13.82091,Albania,Europe,Southern Europe,41.0,20.0
+ARE,2001,12.77332,United Arab Emirates,Asia,Western Asia,24.0,54.0
+ARG,2001,565.7313,Argentina,Americas,South America,-34.0,-64.0
+ARM,2001,131.8409,Armenia,Asia,Western Asia,40.0,45.0
+ATG,2001,0.4157222,Antigua and Barbuda,Americas,Caribbean,17.05,-61.8
+AUS,2001,51.63288,Australia,Oceania,Australia and New Zealand,-27.0,133.0
+AUT,2001,34.45426,Austria,Europe,Western Europe,47.3333,13.3333
+AZE,2001,905.7713,Azerbaijan,Asia,Western Asia,40.5,47.5
+BDI,2001,1921.175,Burundi,Africa,Eastern Africa,-3.5,30.0
+BEL,2001,66.15344,Belgium,Europe,Western Europe,50.8333,4.0
+BEN,2001,737.4522,Benin,Africa,Western Africa,9.5,2.25
+BFA,2001,1186.134,Burkina Faso,Africa,Western Africa,13.0,-2.0
+BGD,2001,52687.49,Bangladesh,Asia,Southern Asia,24.0,90.0
+BGR,2001,231.6404,Bulgaria,Europe,Eastern Europe,43.0,25.0
+BHR,2001,7.973329,Bahrain,Asia,Western Asia,26.0,50.55
+BIH,2001,116.3995,Bosnia and Herzegovina,Europe,Southern Europe,44.0,18.0
+BLR,2001,670.995,Belarus,Europe,Eastern Europe,53.0,28.0
+BLZ,2001,21.22127,Belize,Americas,Central America,17.25,-88.75
+BOL,2001,1410.467,Bolivia,Americas,South America,-17.0,-65.0
+BRA,2001,5299.887,Brazil,Americas,South America,-10.0,-55.0
+BRB,2001,0.0072707,Barbados,Americas,Caribbean,13.1667,-59.5333
+BTN,2001,67.398,Bhutan,Asia,Southern Asia,27.5,90.5
+BWA,2001,404.1125,Botswana,Africa,Southern Africa,-22.0,24.0
+CAF,2001,2087.408,Central African Republic,Africa,Middle Africa,7.0,21.0
+CAN,2001,79.44757,Canada,Americas,Northern America,60.0,-95.0
+CHE,2001,27.86105,Switzerland,Europe,Western Europe,47.0,8.0
+CHL,2001,440.1453,Chile,Americas,South America,-30.0,-71.0
+CHN,2001,70648.86,China,Asia,Eastern Asia,35.0,105.0
+CMR,2001,5842.508,Cameroon,Africa,Middle Africa,6.0,12.0
+COD,2001,17478.93,Democratic Republic of the Congo,Africa,Middle Africa,0.0,25.0
+COL,2001,1199.683,Colombia,Americas,South America,4.0,-72.0
+COM,2001,22.88762,Comoros,Africa,Eastern Africa,-12.1667,44.25
+CRI,2001,61.97938,Costa Rica,Americas,Central America,10.0,-84.0
+CUB,2001,25.386,Cuba,Americas,Caribbean,21.5,-80.0
+CYP,2001,3.29056,Cyprus,Europe,Southern Europe,35.0,33.0
+DEU,2001,333.9479,Germany,Europe,Western Europe,51.0,9.0
+DJI,2001,220.656,Djibouti,Africa,Eastern Africa,11.5,43.0
+DNK,2001,16.80983,Denmark,Europe,Northern Europe,56.0,10.0
+DOM,2001,570.7232,Dominican Republic,Americas,Caribbean,19.0,-70.6667
+DZA,2001,1450.959,Algeria,Africa,Northern Africa,28.0,3.0
+ECU,2001,983.7589,Ecuador,Americas,South America,-2.0,-77.5
+EGY,2001,751.6167,Egypt,Africa,Northern Africa,27.0,30.0
+ERI,2001,289.1492,Eritrea,Africa,Eastern Africa,15.0,39.0
+ESP,2001,348.8778,Spain,Europe,Southern Europe,40.0,-4.0
+EST,2001,81.03832,Estonia,Europe,Northern Europe,59.0,26.0
+ETH,2001,32331.05,Ethiopia,Africa,Eastern Africa,8.0,38.0
+FIN,2001,52.13298,Finland,Europe,Northern Europe,64.0,26.0
+FJI,2001,9.169125,Fiji,Oceania,Melanesia,-18.0,175.0
+FRA,2001,573.1308,France,Europe,Western Europe,46.0,2.0
+GAB,2001,647.1999,Gabon,Africa,Middle Africa,-1.0,11.75
+GBR,2001,273.9467,United Kingdom,Europe,Northern Europe,54.0,-2.0
+GEO,2001,193.8304,Georgia,Asia,Western Asia,42.0,43.5
+GHA,2001,5491.181,Ghana,Africa,Western Africa,8.0,-2.0
+GIN,2001,2900.159,Guinea,Africa,Western Africa,11.0,-10.0
+GNB,2001,418.7686,Guinea-Bissau,Africa,Western Africa,12.0,-15.0
+GNQ,2001,25.9714,Equatorial Guinea,Africa,Middle Africa,2.0,10.0
+GRC,2001,74.8671,Greece,Europe,Southern Europe,39.0,22.0
+GRD,2001,1.209606,Grenada,Americas,Caribbean,12.1167,-61.6667
+GTM,2001,350.052,Guatemala,Americas,Central America,15.5,-90.25
+GUY,2001,72.91554,Guyana,Americas,South America,5.0,-59.0
+HND,2001,244.8655,Honduras,Americas,Central America,15.0,-86.5
+HRV,2001,99.00151,Croatia,Europe,Southern Europe,45.1667,15.5
+HTI,2001,805.5071,Haiti,Americas,Caribbean,19.0,-72.4167
+HUN,2001,276.5983,Hungary,Europe,Eastern Europe,47.0,20.0
+IDN,2001,67212.41,Indonesia,Asia,South-Eastern Asia,-5.0,120.0
+IND,2001,376777.1,India,Asia,Southern Asia,20.0,77.0
+IRL,2001,17.54838,Ireland,Europe,Northern Europe,53.0,-8.0
+IRN,2001,392.2438,Iran,Asia,Southern Asia,32.0,53.0
+IRQ,2001,638.4948,Iraq,Asia,Western Asia,33.0,44.0
+ISL,2001,1.377298,Iceland,Europe,Northern Europe,65.0,-18.0
+ISR,2001,30.21051,Israel,Asia,Western Asia,31.5,34.75
+ITA,2001,276.2515,Italy,Europe,Southern Europe,42.8333,12.8333
+JAM,2001,13.87489,Jamaica,Americas,Caribbean,18.25,-77.5
+JOR,2001,12.01731,Jordan,Asia,Western Asia,31.0,36.0
+JPN,2001,3206.012,Japan,Asia,Eastern Asia,36.0,138.0
+KAZ,2001,2996.37,Kazakhstan,Asia,Central Asia,48.0,68.0
+KEN,2001,11455.4,Kenya,Africa,Eastern Africa,1.0,38.0
+KGZ,2001,956.0314,Kyrgyzstan,Asia,Central Asia,41.0,75.0
+KHM,2001,3117.183,Cambodia,Asia,South-Eastern Asia,13.0,105.0
+KIR,2001,24.89769,Kiribati,Oceania,Micronesia,1.4167,173.0
+KOR,2001,2633.534,South Korea,Asia,Eastern Asia,37.0,127.5
+KWT,2001,24.30223,Kuwait,Asia,Western Asia,29.3375,47.6581
+LAO,2001,4058.664,Lao People's Democratic Republic,Asia,South-Eastern Asia,18.0,105.0
+LBN,2001,17.92692,Lebanon,Asia,Western Asia,33.8333,35.8333
+LBR,2001,901.6486,Liberia,Africa,Western Africa,6.5,-9.5
+LBY,2001,184.668,Libya,Africa,Northern Africa,25.0,17.0
+LCA,2001,0.6327933,Saint Lucia,Americas,Caribbean,13.8833,-61.1333
+LKA,2001,977.0554,Sri Lanka,Asia,Southern Asia,7.0,81.0
+LSO,2001,1139.154,Lesotho,Africa,Southern Africa,-29.5,28.5
+LTU,2001,297.8159,Lithuania,Europe,Northern Europe,56.0,24.0
+LUX,2001,1.422676,Luxembourg,Europe,Western Europe,49.75,6.1667
+LVA,2001,236.7538,Latvia,Europe,Northern Europe,57.0,25.0
+MAR,2001,1868.915,Morocco,Africa,Northern Africa,32.0,-5.0
+MDA,2001,531.7072,Moldova,Europe,Eastern Europe,47.0,29.0
+MDG,2001,8001.675,Madagascar,Africa,Eastern Africa,-20.0,47.0
+MDV,2001,11.87001,Maldives,Asia,Southern Asia,3.25,73.0
+MEX,2001,2335.237,Mexico,Americas,Central America,23.0,-102.0
+MLI,2001,912.5508,Mali,Africa,Western Africa,17.0,-4.0
+MLT,2001,1.057697,Malta,Europe,Southern Europe,35.8333,14.5833
+MNG,2001,334.8925,Mongolia,Asia,Eastern Asia,46.0,105.0
+MOZ,2001,3968.222,Mozambique,Africa,Eastern Africa,-18.25,35.0
+MRT,2001,916.0229,Mauritania,Africa,Western Africa,20.0,-12.0
+MUS,2001,6.593426,Mauritius,Africa,Eastern Africa,-20.2833,57.55
+MWI,2001,1457.587,Malawi,Africa,Eastern Africa,-13.5,34.0
+MYS,2001,1028.79,Malaysia,Asia,South-Eastern Asia,2.5,112.5
+NAM,2001,606.3839,Namibia,Africa,Southern Africa,-22.0,17.0
+NER,2001,4000.926,Niger,Africa,Western Africa,16.0,8.0
+NGA,2001,51260.87,Nigeria,Africa,Western Africa,10.0,8.0
+NIC,2001,239.6866,Nicaragua,Americas,Central America,13.0,-85.0
+NLD,2001,55.10617,Netherlands,Europe,Western Europe,52.5,5.75
+NOR,2001,29.55175,Norway,Europe,Northern Europe,62.0,10.0
+NPL,2001,19688.28,Nepal,Asia,Southern Asia,28.0,84.0
+NZL,2001,6.070264,New Zealand,Oceania,Australia and New Zealand,-41.0,174.0
+OMN,2001,12.39025,Oman,Asia,Western Asia,21.0,57.0
+PAK,2001,30429.75,Pakistan,Asia,Southern Asia,30.0,70.0
+PAN,2001,140.4372,Panama,Americas,Central America,9.0,-80.0
+PER,2001,2302.643,Peru,Americas,South America,-10.0,-76.0
+PHL,2001,23996.3,Philippines,Asia,South-Eastern Asia,13.0,122.0
+PNG,2001,2892.417,Papua New Guinea,Oceania,Melanesia,-6.0,147.0
+POL,2001,898.2269,Poland,Europe,Eastern Europe,52.0,20.0
+PRK,2001,24825.46,North Korea,Asia,Eastern Asia,40.0,127.0
+PRT,2001,298.1361,Portugal,Europe,Southern Europe,39.5,-8.0
+PRY,2001,185.9482,Paraguay,Americas,South America,-23.0,-58.0
+QAT,2001,3.833408,Qatar,Asia,Western Asia,25.5,51.25
+ROU,2001,1990.176,Romania,Europe,Eastern Europe,46.0,25.0
+RUS,2001,23966.77,Russian Federation,Europe,Eastern Europe,60.0,100.0
+RWA,2001,309.9579,Rwanda,Africa,Eastern Africa,-2.0,30.0
+SAU,2001,746.6433,Saudi Arabia,Asia,Western Asia,25.0,45.0
+SDN,2001,6354.453,Sudan,Africa,Northern Africa,15.0,30.0
+SEN,2001,1745.186,Senegal,Africa,Western Africa,14.0,-14.0
+SGP,2001,82.07453,Singapore,Asia,South-Eastern Asia,1.3667,103.8
+SLB,2001,25.64999,Solomon Islands,Oceania,Melanesia,-8.0,159.0
+SLE,2001,2019.184,Sierra Leone,Africa,Western Africa,8.5,-11.5
+SLV,2001,87.58809,El Salvador,Americas,Central America,13.8333,-88.9167
+SOM,2001,4644.044,Somalia,Africa,Eastern Africa,10.0,49.0
+SRB,2001,243.1017,Serbia,Europe,Eastern Europe,44.0,21.0
+SSD,2001,2125.659,South Sudan,Africa,Middle Africa,8.0,30.0
+SUR,2001,10.99834,Suriname,Americas,South America,4.0,-56.0
+SVK,2001,37.6908,Slovakia,Europe,Eastern Europe,48.6667,19.5
+SVN,2001,16.88159,Slovenia,Europe,Southern Europe,46.0,15.0
+SWE,2001,35.95164,Sweden,Europe,Northern Europe,62.0,15.0
+SYC,2001,1.972035,Seychelles,Africa,Eastern Africa,-4.5833,55.6667
+SYR,2001,61.01283,Syrian Arab Republic,Asia,Western Asia,35.0,38.0
+TCD,2001,1733.515,Chad,Africa,Middle Africa,15.0,19.0
+TGO,2001,210.6593,Togo,Africa,Western Africa,8.0,1.1667
+THA,2001,9046.266,Thailand,Asia,South-Eastern Asia,15.0,100.0
+TJK,2001,665.6437,Tajikistan,Asia,Central Asia,39.0,71.0
+TKM,2001,482.6018,Turkmenistan,Asia,Central Asia,40.0,60.0
+TON,2001,0.63,Tonga,Oceania,Polynesia,-20.0,-175.0
+TTO,2001,16.32084,Trinidad and Tobago,Americas,Caribbean,11.0,-61.0
+TUN,2001,80.89591,Tunisia,Africa,Northern Africa,34.0,9.0
+TUR,2001,1197.461,Turkey,Asia,Western Asia,39.0,35.0
+UGA,2001,3537.047,Uganda,Africa,Eastern Africa,1.0,32.0
+UKR,2001,4218.199,Ukraine,Europe,Eastern Europe,49.0,32.0
+URY,2001,46.18883,Uruguay,Americas,South America,-33.0,-56.0
+USA,2001,508.9368,United States,Americas,Northern America,38.0,-97.0
+UZB,2001,2235.487,Uzbekistan,Asia,Central Asia,41.0,64.0
+VCT,2001,2.108223,Saint Vincent and the Grenadines,Americas,Caribbean,13.25,-61.2
+VEN,2001,621.2184,Venezuela,Americas,South America,8.0,-66.0
+VNM,2001,19276.52,Vietnam,Asia,South-Eastern Asia,16.0,106.0
+VUT,2001,15.46742,Vanuatu,Oceania,Melanesia,-16.0,167.0
+WSM,2001,0.693,Samoa,Oceania,Polynesia,-13.5833,-172.3333
+YEM,2001,1672.888,Yemen,Asia,Western Asia,15.0,48.0
+ZAF,2001,15836.82,South Africa,Africa,Southern Africa,-29.0,24.0
+ZMB,2001,2978.465,Zambia,Africa,Eastern Africa,-15.0,30.0
+ZWE,2001,2532.194,Zimbabwe,Africa,Eastern Africa,-20.0,30.0

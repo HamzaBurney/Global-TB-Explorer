@@ -1,0 +1,169 @@
+iso3,year,Tuberculosis_Deaths,Country,region,subregion,latitude,longitude
+AFG,2010,5652.315,Afghanistan,Asia,Southern Asia,33.0,65.0
+AGO,2010,9330.331,Angola,Africa,Middle Africa,-12.5,18.5
+ALB,2010,5.818652,Albania,Europe,Southern Europe,41.0,20.0
+ARE,2010,33.67069,United Arab Emirates,Asia,Western Asia,24.0,54.0
+ARG,2010,376.0442,Argentina,Americas,South America,-34.0,-64.0
+ARM,2010,141.42,Armenia,Asia,Western Asia,40.0,45.0
+ATG,2010,0.5302768,Antigua and Barbuda,Americas,Caribbean,17.05,-61.8
+AUS,2010,32.97868,Australia,Oceania,Australia and New Zealand,-27.0,133.0
+AUT,2010,21.69971,Austria,Europe,Western Europe,47.3333,13.3333
+AZE,2010,510.877,Azerbaijan,Asia,Western Asia,40.5,47.5
+BDI,2010,1115.876,Burundi,Africa,Eastern Africa,-3.5,30.0
+BEL,2010,30.52232,Belgium,Europe,Western Europe,50.8333,4.0
+BEN,2010,626.0298,Benin,Africa,Western Africa,9.5,2.25
+BFA,2010,1039.143,Burkina Faso,Africa,Western Africa,13.0,-2.0
+BGD,2010,44481.17,Bangladesh,Asia,Southern Asia,24.0,90.0
+BGR,2010,171.2476,Bulgaria,Europe,Eastern Europe,43.0,25.0
+BHR,2010,6.831655,Bahrain,Asia,Western Asia,26.0,50.55
+BIH,2010,115.9482,Bosnia and Herzegovina,Europe,Southern Europe,44.0,18.0
+BLR,2010,630.6523,Belarus,Europe,Eastern Europe,53.0,28.0
+BLZ,2010,12.91668,Belize,Americas,Central America,17.25,-88.75
+BOL,2010,902.5749,Bolivia,Americas,South America,-17.0,-65.0
+BRA,2010,3964.379,Brazil,Americas,South America,-10.0,-55.0
+BRB,2010,0.3241885,Barbados,Americas,Caribbean,13.1667,-59.5333
+BTN,2010,83.22491,Bhutan,Asia,Southern Asia,27.5,90.5
+BWA,2010,334.1201,Botswana,Africa,Southern Africa,-22.0,24.0
+CAF,2010,2353.398,Central African Republic,Africa,Middle Africa,7.0,21.0
+CAN,2010,47.42301,Canada,Americas,Northern America,60.0,-95.0
+CHE,2010,14.62553,Switzerland,Europe,Western Europe,47.0,8.0
+CHL,2010,346.0078,Chile,Americas,South America,-30.0,-71.0
+CHN,2010,36959.69,China,Asia,Eastern Asia,35.0,105.0
+CMR,2010,5206.855,Cameroon,Africa,Middle Africa,6.0,12.0
+COD,2010,20659.62,Democratic Republic of the Congo,Africa,Middle Africa,0.0,25.0
+COL,2010,936.1278,Colombia,Americas,South America,4.0,-72.0
+COM,2010,31.90582,Comoros,Africa,Eastern Africa,-12.1667,44.25
+CRI,2010,39.45069,Costa Rica,Americas,Central America,10.0,-84.0
+CUB,2010,33.42626,Cuba,Americas,Caribbean,21.5,-80.0
+CYP,2010,1.196937,Cyprus,Europe,Southern Europe,35.0,33.0
+DEU,2010,227.6033,Germany,Europe,Western Europe,51.0,9.0
+DJI,2010,248.9472,Djibouti,Africa,Eastern Africa,11.5,43.0
+DNK,2010,22.8592,Denmark,Europe,Northern Europe,56.0,10.0
+DOM,2010,476.181,Dominican Republic,Americas,Caribbean,19.0,-70.6667
+DZA,2010,1767.009,Algeria,Africa,Northern Africa,28.0,3.0
+ECU,2010,549.0208,Ecuador,Americas,South America,-2.0,-77.5
+EGY,2010,426.1237,Egypt,Africa,Northern Africa,27.0,30.0
+ERI,2010,398.4534,Eritrea,Africa,Eastern Africa,15.0,39.0
+ESP,2010,277.1079,Spain,Europe,Southern Europe,40.0,-4.0
+EST,2010,36.01564,Estonia,Europe,Northern Europe,59.0,26.0
+ETH,2010,17173.92,Ethiopia,Africa,Eastern Africa,8.0,38.0
+FIN,2010,22.20538,Finland,Europe,Northern Europe,64.0,26.0
+FJI,2010,15.48145,Fiji,Oceania,Melanesia,-18.0,175.0
+FRA,2010,336.489,France,Europe,Western Europe,46.0,2.0
+GAB,2010,787.0461,Gabon,Africa,Middle Africa,-1.0,11.75
+GBR,2010,195.4886,United Kingdom,Europe,Northern Europe,54.0,-2.0
+GEO,2010,145.1542,Georgia,Asia,Western Asia,42.0,43.5
+GHA,2010,5867.17,Ghana,Africa,Western Africa,8.0,-2.0
+GIN,2010,1875.169,Guinea,Africa,Western Africa,11.0,-10.0
+GNB,2010,529.7573,Guinea-Bissau,Africa,Western Africa,12.0,-15.0
+GNQ,2010,80.42012,Equatorial Guinea,Africa,Middle Africa,2.0,10.0
+GRC,2010,53.8782,Greece,Europe,Southern Europe,39.0,22.0
+GRD,2010,0.8012829,Grenada,Americas,Caribbean,12.1167,-61.6667
+GTM,2010,238.8242,Guatemala,Americas,Central America,15.5,-90.25
+GUY,2010,92.1068,Guyana,Americas,South America,5.0,-59.0
+HND,2010,222.341,Honduras,Americas,Central America,15.0,-86.5
+HRV,2010,53.40007,Croatia,Europe,Southern Europe,45.1667,15.5
+HTI,2010,548.6882,Haiti,Americas,Caribbean,19.0,-72.4167
+HUN,2010,110.8974,Hungary,Europe,Eastern Europe,47.0,20.0
+IDN,2010,61792.17,Indonesia,Asia,South-Eastern Asia,-5.0,120.0
+IND,2010,305154.4,India,Asia,Southern Asia,20.0,77.0
+IRL,2010,18.01432,Ireland,Europe,Northern Europe,53.0,-8.0
+IRN,2010,442.8622,Iran,Asia,Southern Asia,32.0,53.0
+IRQ,2010,547.0998,Iraq,Asia,Western Asia,33.0,44.0
+ISL,2010,0.9880196,Iceland,Europe,Northern Europe,65.0,-18.0
+ISR,2010,19.64403,Israel,Asia,Western Asia,31.5,34.75
+ITA,2010,218.4082,Italy,Europe,Southern Europe,42.8333,12.8333
+JAM,2010,10.60673,Jamaica,Americas,Caribbean,18.25,-77.5
+JOR,2010,12.04736,Jordan,Asia,Western Asia,31.0,36.0
+JPN,2010,2277.132,Japan,Asia,Eastern Asia,36.0,138.0
+KAZ,2010,1590.648,Kazakhstan,Asia,Central Asia,48.0,68.0
+KEN,2010,22157.09,Kenya,Africa,Eastern Africa,1.0,38.0
+KGZ,2010,470.3633,Kyrgyzstan,Asia,Central Asia,41.0,75.0
+KHM,2010,2224.243,Cambodia,Asia,South-Eastern Asia,13.0,105.0
+KIR,2010,26.55697,Kiribati,Oceania,Micronesia,1.4167,173.0
+KOR,2010,1939.241,South Korea,Asia,Eastern Asia,37.0,127.5
+KWT,2010,34.24628,Kuwait,Asia,Western Asia,29.3375,47.6581
+LAO,2010,2651.656,Lao People's Democratic Republic,Asia,South-Eastern Asia,18.0,105.0
+LBN,2010,17.74803,Lebanon,Asia,Western Asia,33.8333,35.8333
+LBR,2010,948.8243,Liberia,Africa,Western Africa,6.5,-9.5
+LBY,2010,200.1448,Libya,Africa,Northern Africa,25.0,17.0
+LCA,2010,0.5769138,Saint Lucia,Americas,Caribbean,13.8833,-61.1333
+LKA,2010,648.9688,Sri Lanka,Asia,Southern Asia,7.0,81.0
+LSO,2010,852.6138,Lesotho,Africa,Southern Africa,-29.5,28.5
+LTU,2010,190.6765,Lithuania,Europe,Northern Europe,56.0,24.0
+LUX,2010,0.3535263,Luxembourg,Europe,Western Europe,49.75,6.1667
+LVA,2010,71.61981,Latvia,Europe,Northern Europe,57.0,25.0
+MAR,2010,1863.736,Morocco,Africa,Northern Africa,32.0,-5.0
+MDA,2010,531.4644,Moldova,Europe,Eastern Europe,47.0,29.0
+MDG,2010,7259.354,Madagascar,Africa,Eastern Africa,-20.0,47.0
+MDV,2010,5.960282,Maldives,Asia,Southern Asia,3.25,73.0
+MEX,2010,1729.902,Mexico,Americas,Central America,23.0,-102.0
+MLI,2010,1005.974,Mali,Africa,Western Africa,17.0,-4.0
+MLT,2010,0.6664091,Malta,Europe,Southern Europe,35.8333,14.5833
+MNG,2010,236.4493,Mongolia,Asia,Eastern Asia,46.0,105.0
+MOZ,2010,4128.866,Mozambique,Africa,Eastern Africa,-18.25,35.0
+MRT,2010,606.1305,Mauritania,Africa,Western Africa,20.0,-12.0
+MUS,2010,9.523561,Mauritius,Africa,Eastern Africa,-20.2833,57.55
+MWI,2010,1688.07,Malawi,Africa,Eastern Africa,-13.5,34.0
+MYS,2010,852.5548,Malaysia,Asia,South-Eastern Asia,2.5,112.5
+NAM,2010,1019.603,Namibia,Africa,Southern Africa,-22.0,17.0
+NER,2010,2251.126,Niger,Africa,Western Africa,16.0,8.0
+NGA,2010,56736.11,Nigeria,Africa,Western Africa,10.0,8.0
+NIC,2010,166.535,Nicaragua,Americas,Central America,13.0,-85.0
+NLD,2010,37.99711,Netherlands,Europe,Western Europe,52.5,5.75
+NOR,2010,10.60171,Norway,Europe,Northern Europe,62.0,10.0
+NPL,2010,14297.39,Nepal,Asia,Southern Asia,28.0,84.0
+NZL,2010,9.97801,New Zealand,Oceania,Australia and New Zealand,-41.0,174.0
+OMN,2010,11.25763,Oman,Asia,Western Asia,21.0,57.0
+PAK,2010,27159.63,Pakistan,Asia,Southern Asia,30.0,70.0
+PAN,2010,135.5764,Panama,Americas,Central America,9.0,-80.0
+PER,2010,1784.161,Peru,Americas,South America,-10.0,-76.0
+PHL,2010,20066.05,Philippines,Asia,South-Eastern Asia,13.0,122.0
+PNG,2010,3640.901,Papua New Guinea,Oceania,Melanesia,-6.0,147.0
+POL,2010,513.9109,Poland,Europe,Eastern Europe,52.0,20.0
+PRK,2010,12767.98,North Korea,Asia,Eastern Asia,40.0,127.0
+PRT,2010,161.8267,Portugal,Europe,Southern Europe,39.5,-8.0
+PRY,2010,212.375,Paraguay,Americas,South America,-23.0,-58.0
+QAT,2010,3.934363,Qatar,Asia,Western Asia,25.5,51.25
+ROU,2010,1257.274,Romania,Europe,Eastern Europe,46.0,25.0
+RUS,2010,17961.39,Russian Federation,Europe,Eastern Europe,60.0,100.0
+RWA,2010,459.3126,Rwanda,Africa,Eastern Africa,-2.0,30.0
+SAU,2010,697.7737,Saudi Arabia,Asia,Western Asia,25.0,45.0
+SDN,2010,6860.048,Sudan,Africa,Northern Africa,15.0,30.0
+SEN,2010,1556.06,Senegal,Africa,Western Africa,14.0,-14.0
+SGP,2010,62.52338,Singapore,Asia,South-Eastern Asia,1.3667,103.8
+SLB,2010,29.69074,Solomon Islands,Oceania,Melanesia,-8.0,159.0
+SLE,2010,1922.754,Sierra Leone,Africa,Western Africa,8.5,-11.5
+SLV,2010,63.59956,El Salvador,Americas,Central America,13.8333,-88.9167
+SOM,2010,6005.133,Somalia,Africa,Eastern Africa,10.0,49.0
+SRB,2010,123.7679,Serbia,Europe,Eastern Europe,44.0,21.0
+SSD,2010,3181.666,South Sudan,Africa,Middle Africa,8.0,30.0
+SUR,2010,18.33772,Suriname,Americas,South America,4.0,-56.0
+SVK,2010,27.64705,Slovakia,Europe,Eastern Europe,48.6667,19.5
+SVN,2010,11.26069,Slovenia,Europe,Southern Europe,46.0,15.0
+SWE,2010,16.68524,Sweden,Europe,Northern Europe,62.0,15.0
+SYC,2010,0.0,Seychelles,Africa,Eastern Africa,-4.5833,55.6667
+SYR,2010,21.28144,Syrian Arab Republic,Asia,Western Asia,35.0,38.0
+TCD,2010,1829.472,Chad,Africa,Middle Africa,15.0,19.0
+TGO,2010,460.9364,Togo,Africa,Western Africa,8.0,1.1667
+THA,2010,6074.366,Thailand,Asia,South-Eastern Asia,15.0,100.0
+TJK,2010,575.4907,Tajikistan,Asia,Central Asia,39.0,71.0
+TKM,2010,387.8117,Turkmenistan,Asia,Central Asia,40.0,60.0
+TON,2010,0.5775,Tonga,Oceania,Polynesia,-20.0,-175.0
+TTO,2010,22.29986,Trinidad and Tobago,Americas,Caribbean,11.0,-61.0
+TUN,2010,80.58606,Tunisia,Africa,Northern Africa,34.0,9.0
+TUR,2010,703.7918,Turkey,Asia,Western Asia,39.0,35.0
+UGA,2010,3379.799,Uganda,Africa,Eastern Africa,1.0,32.0
+UKR,2010,3166.001,Ukraine,Europe,Eastern Europe,49.0,32.0
+URY,2010,38.30809,Uruguay,Americas,South America,-33.0,-56.0
+USA,2010,373.7857,United States,Americas,Northern America,38.0,-97.0
+UZB,2010,1392.889,Uzbekistan,Asia,Central Asia,41.0,64.0
+VCT,2010,6.069707,Saint Vincent and the Grenadines,Americas,Caribbean,13.25,-61.2
+VEN,2010,544.6908,Venezuela,Americas,South America,8.0,-66.0
+VNM,2010,12503.56,Vietnam,Asia,South-Eastern Asia,16.0,106.0
+VUT,2010,7.386049,Vanuatu,Oceania,Melanesia,-16.0,167.0
+WSM,2010,0.441,Samoa,Oceania,Polynesia,-13.5833,-172.3333
+YEM,2010,821.8495,Yemen,Asia,Western Asia,15.0,48.0
+ZAF,2010,15219.43,South Africa,Africa,Southern Africa,-29.0,24.0
+ZMB,2010,2420.624,Zambia,Africa,Eastern Africa,-15.0,30.0
+ZWE,2010,711.0358,Zimbabwe,Africa,Eastern Africa,-20.0,30.0

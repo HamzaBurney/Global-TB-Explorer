@@ -1,0 +1,169 @@
+iso3,year,Tuberculosis_Deaths,Country,region,subregion,latitude,longitude
+AFG,2019,4454.469,Afghanistan,Asia,Southern Asia,33.0,65.0
+AGO,2019,9969.07,Angola,Africa,Middle Africa,-12.5,18.5
+ALB,2019,5.686182,Albania,Europe,Southern Europe,41.0,20.0
+ARE,2019,38.47724,United Arab Emirates,Asia,Western Asia,24.0,54.0
+ARG,2019,417.529,Argentina,Americas,South America,-34.0,-64.0
+ARM,2019,33.45784,Armenia,Asia,Western Asia,40.0,45.0
+ATG,2019,0.3609817,Antigua and Barbuda,Americas,Caribbean,17.05,-61.8
+AUS,2019,26.60532,Australia,Oceania,Australia and New Zealand,-27.0,133.0
+AUT,2019,23.26803,Austria,Europe,Western Europe,47.3333,13.3333
+AZE,2019,377.9148,Azerbaijan,Asia,Western Asia,40.5,47.5
+BDI,2019,1470.849,Burundi,Africa,Eastern Africa,-3.5,30.0
+BEL,2019,27.62856,Belgium,Europe,Western Europe,50.8333,4.0
+BEN,2019,566.2072,Benin,Africa,Western Africa,9.5,2.25
+BFA,2019,1248.03,Burkina Faso,Africa,Western Africa,13.0,-2.0
+BGD,2019,20973.71,Bangladesh,Asia,Southern Asia,24.0,90.0
+BGR,2019,84.0415,Bulgaria,Europe,Eastern Europe,43.0,25.0
+BHR,2019,5.867639,Bahrain,Asia,Western Asia,26.0,50.55
+BIH,2019,57.43524,Bosnia and Herzegovina,Europe,Southern Europe,44.0,18.0
+BLR,2019,186.3224,Belarus,Europe,Eastern Europe,53.0,28.0
+BLZ,2019,7.49194,Belize,Americas,Central America,17.25,-88.75
+BOL,2019,721.4484,Bolivia,Americas,South America,-17.0,-65.0
+BRA,2019,3380.683,Brazil,Americas,South America,-10.0,-55.0
+BRB,2019,0.4629829,Barbados,Americas,Caribbean,13.1667,-59.5333
+BTN,2019,67.60649,Bhutan,Asia,Southern Asia,27.5,90.5
+BWA,2019,390.8814,Botswana,Africa,Southern Africa,-22.0,24.0
+CAF,2019,2773.929,Central African Republic,Africa,Middle Africa,7.0,21.0
+CAN,2019,58.53069,Canada,Americas,Northern America,60.0,-95.0
+CHE,2019,12.41808,Switzerland,Europe,Western Europe,47.0,8.0
+CHL,2019,251.05,Chile,Americas,South America,-30.0,-71.0
+CHN,2019,25362.87,China,Asia,Eastern Asia,35.0,105.0
+CMR,2019,4521.543,Cameroon,Africa,Middle Africa,6.0,12.0
+COD,2019,25248.62,Democratic Republic of the Congo,Africa,Middle Africa,0.0,25.0
+COL,2019,928.2617,Colombia,Americas,South America,4.0,-72.0
+COM,2019,50.48804,Comoros,Africa,Eastern Africa,-12.1667,44.25
+CRI,2019,22.89492,Costa Rica,Americas,Central America,10.0,-84.0
+CUB,2019,35.68413,Cuba,Americas,Caribbean,21.5,-80.0
+CYP,2019,2.97242,Cyprus,Europe,Southern Europe,35.0,33.0
+DEU,2019,193.0101,Germany,Europe,Western Europe,51.0,9.0
+DJI,2019,147.9052,Djibouti,Africa,Eastern Africa,11.5,43.0
+DNK,2019,11.03914,Denmark,Europe,Northern Europe,56.0,10.0
+DOM,2019,184.1942,Dominican Republic,Americas,Caribbean,19.0,-70.6667
+DZA,2019,1646.268,Algeria,Africa,Northern Africa,28.0,3.0
+ECU,2019,424.7385,Ecuador,Americas,South America,-2.0,-77.5
+EGY,2019,308.6618,Egypt,Africa,Northern Africa,27.0,30.0
+ERI,2019,288.1165,Eritrea,Africa,Eastern Africa,15.0,39.0
+ESP,2019,167.8989,Spain,Europe,Southern Europe,40.0,-4.0
+EST,2019,9.358454,Estonia,Europe,Northern Europe,59.0,26.0
+ETH,2019,11783.48,Ethiopia,Africa,Eastern Africa,8.0,38.0
+FIN,2019,17.05,Finland,Europe,Northern Europe,64.0,26.0
+FJI,2019,24.35636,Fiji,Oceania,Melanesia,-18.0,175.0
+FRA,2019,217.418,France,Europe,Western Europe,46.0,2.0
+GAB,2019,1114.621,Gabon,Africa,Middle Africa,-1.0,11.75
+GBR,2019,206.3904,United Kingdom,Europe,Northern Europe,54.0,-2.0
+GEO,2019,98.25468,Georgia,Asia,Western Asia,42.0,43.5
+GHA,2019,5979.794,Ghana,Africa,Western Africa,8.0,-2.0
+GIN,2019,1431.289,Guinea,Africa,Western Africa,11.0,-10.0
+GNB,2019,854.989,Guinea-Bissau,Africa,Western Africa,12.0,-15.0
+GNQ,2019,184.1349,Equatorial Guinea,Africa,Middle Africa,2.0,10.0
+GRC,2019,38.89321,Greece,Europe,Southern Europe,39.0,22.0
+GRD,2019,0.9648567,Grenada,Americas,Caribbean,12.1167,-61.6667
+GTM,2019,194.943,Guatemala,Americas,Central America,15.5,-90.25
+GUY,2019,103.4009,Guyana,Americas,South America,5.0,-59.0
+HND,2019,275.6851,Honduras,Americas,Central America,15.0,-86.5
+HRV,2019,34.4759,Croatia,Europe,Southern Europe,45.1667,15.5
+HTI,2019,555.6166,Haiti,Americas,Caribbean,19.0,-72.4167
+HUN,2019,47.89909,Hungary,Europe,Eastern Europe,47.0,20.0
+IDN,2019,50679.73,Indonesia,Asia,South-Eastern Asia,-5.0,120.0
+IND,2019,269281.4,India,Asia,Southern Asia,20.0,77.0
+IRL,2019,12.86319,Ireland,Europe,Northern Europe,53.0,-8.0
+IRN,2019,506.178,Iran,Asia,Southern Asia,32.0,53.0
+IRQ,2019,445.3718,Iraq,Asia,Western Asia,33.0,44.0
+ISL,2019,0.0,Iceland,Europe,Northern Europe,65.0,-18.0
+ISR,2019,9.111837,Israel,Asia,Western Asia,31.5,34.75
+ITA,2019,191.8906,Italy,Europe,Southern Europe,42.8333,12.8333
+JAM,2019,6.517413,Jamaica,Americas,Caribbean,18.25,-77.5
+JOR,2019,3.98899,Jordan,Asia,Western Asia,31.0,36.0
+JPN,2019,1959.663,Japan,Asia,Eastern Asia,36.0,138.0
+KAZ,2019,216.9879,Kazakhstan,Asia,Central Asia,48.0,68.0
+KEN,2019,13132.53,Kenya,Africa,Eastern Africa,1.0,38.0
+KGZ,2019,253.6079,Kyrgyzstan,Asia,Central Asia,41.0,75.0
+KHM,2019,1750.795,Cambodia,Asia,South-Eastern Asia,13.0,105.0
+KIR,2019,27.58944,Kiribati,Oceania,Micronesia,1.4167,173.0
+KOR,2019,1181.607,South Korea,Asia,Eastern Asia,37.0,127.5
+KWT,2019,22.05998,Kuwait,Asia,Western Asia,29.3375,47.6581
+LAO,2019,1253.524,Lao People's Democratic Republic,Asia,South-Eastern Asia,18.0,105.0
+LBN,2019,25.97289,Lebanon,Asia,Western Asia,33.8333,35.8333
+LBR,2019,1648.988,Liberia,Africa,Western Africa,6.5,-9.5
+LBY,2019,505.9248,Libya,Africa,Northern Africa,25.0,17.0
+LCA,2019,1.445818,Saint Lucia,Americas,Caribbean,13.8833,-61.1333
+LKA,2019,504.9306,Sri Lanka,Asia,Southern Asia,7.0,81.0
+LSO,2019,810.6009,Lesotho,Africa,Southern Africa,-29.5,28.5
+LTU,2019,81.76801,Lithuania,Europe,Northern Europe,56.0,24.0
+LUX,2019,1.118412,Luxembourg,Europe,Western Europe,49.75,6.1667
+LVA,2019,51.55896,Latvia,Europe,Northern Europe,57.0,25.0
+MAR,2019,2030.609,Morocco,Africa,Northern Africa,32.0,-5.0
+MDA,2019,164.5812,Moldova,Europe,Eastern Europe,47.0,29.0
+MDG,2019,7083.861,Madagascar,Africa,Eastern Africa,-20.0,47.0
+MDV,2019,7.944521,Maldives,Asia,Southern Asia,3.25,73.0
+MEX,2019,1363.747,Mexico,Americas,Central America,23.0,-102.0
+MLI,2019,922.3686,Mali,Africa,Western Africa,17.0,-4.0
+MLT,2019,0.6858889,Malta,Europe,Southern Europe,35.8333,14.5833
+MNG,2019,229.0858,Mongolia,Asia,Eastern Asia,46.0,105.0
+MOZ,2019,3234.309,Mozambique,Africa,Eastern Africa,-18.25,35.0
+MRT,2019,444.176,Mauritania,Africa,Western Africa,20.0,-12.0
+MUS,2019,15.28874,Mauritius,Africa,Eastern Africa,-20.2833,57.55
+MWI,2019,1855.135,Malawi,Africa,Eastern Africa,-13.5,34.0
+MYS,2019,789.4634,Malaysia,Asia,South-Eastern Asia,2.5,112.5
+NAM,2019,888.6839,Namibia,Africa,Southern Africa,-22.0,17.0
+NER,2019,2360.476,Niger,Africa,Western Africa,16.0,8.0
+NGA,2019,82948.83,Nigeria,Africa,Western Africa,10.0,8.0
+NIC,2019,70.22592,Nicaragua,Americas,Central America,13.0,-85.0
+NLD,2019,14.90979,Netherlands,Europe,Western Europe,52.5,5.75
+NOR,2019,5.684138,Norway,Europe,Northern Europe,62.0,10.0
+NPL,2019,10918.2,Nepal,Asia,Southern Asia,28.0,84.0
+NZL,2019,8.3134,New Zealand,Oceania,Australia and New Zealand,-41.0,174.0
+OMN,2019,11.90025,Oman,Asia,Western Asia,21.0,57.0
+PAK,2019,24119.0,Pakistan,Asia,Southern Asia,30.0,70.0
+PAN,2019,148.1623,Panama,Americas,Central America,9.0,-80.0
+PER,2019,1626.157,Peru,Americas,South America,-10.0,-76.0
+PHL,2019,17649.8,Philippines,Asia,South-Eastern Asia,13.0,122.0
+PNG,2019,2027.634,Papua New Guinea,Oceania,Melanesia,-6.0,147.0
+POL,2019,465.8269,Poland,Europe,Eastern Europe,52.0,20.0
+PRK,2019,11137.12,North Korea,Asia,Eastern Asia,40.0,127.0
+PRT,2019,141.1304,Portugal,Europe,Southern Europe,39.5,-8.0
+PRY,2019,199.597,Paraguay,Americas,South America,-23.0,-58.0
+QAT,2019,6.416591,Qatar,Asia,Western Asia,25.5,51.25
+ROU,2019,825.2106,Romania,Europe,Eastern Europe,46.0,25.0
+RUS,2019,6610.071,Russian Federation,Europe,Eastern Europe,60.0,100.0
+RWA,2019,456.6253,Rwanda,Africa,Eastern Africa,-2.0,30.0
+SAU,2019,536.298,Saudi Arabia,Asia,Western Asia,25.0,45.0
+SDN,2019,2512.554,Sudan,Africa,Northern Africa,15.0,30.0
+SEN,2019,1655.35,Senegal,Africa,Western Africa,14.0,-14.0
+SGP,2019,20.39801,Singapore,Asia,South-Eastern Asia,1.3667,103.8
+SLB,2019,31.09622,Solomon Islands,Oceania,Melanesia,-8.0,159.0
+SLE,2019,1430.691,Sierra Leone,Africa,Western Africa,8.5,-11.5
+SLV,2019,37.30811,El Salvador,Americas,Central America,13.8333,-88.9167
+SOM,2019,5914.114,Somalia,Africa,Eastern Africa,10.0,49.0
+SRB,2019,65.5026,Serbia,Europe,Eastern Europe,44.0,21.0
+SSD,2019,2323.327,South Sudan,Africa,Middle Africa,8.0,30.0
+SUR,2019,14.79527,Suriname,Americas,South America,4.0,-56.0
+SVK,2019,17.92444,Slovakia,Europe,Eastern Europe,48.6667,19.5
+SVN,2019,8.412266,Slovenia,Europe,Southern Europe,46.0,15.0
+SWE,2019,13.08452,Sweden,Europe,Northern Europe,62.0,15.0
+SYC,2019,0.0036374,Seychelles,Africa,Eastern Africa,-4.5833,55.6667
+SYR,2019,16.23786,Syrian Arab Republic,Asia,Western Asia,35.0,38.0
+TCD,2019,2168.402,Chad,Africa,Middle Africa,15.0,19.0
+TGO,2019,136.0353,Togo,Africa,Western Africa,8.0,1.1667
+THA,2019,6826.481,Thailand,Asia,South-Eastern Asia,15.0,100.0
+TJK,2019,521.3869,Tajikistan,Asia,Central Asia,39.0,71.0
+TKM,2019,346.2489,Turkmenistan,Asia,Central Asia,40.0,60.0
+TON,2019,0.525,Tonga,Oceania,Polynesia,-20.0,-175.0
+TTO,2019,19.23966,Trinidad and Tobago,Americas,Caribbean,11.0,-61.0
+TUN,2019,67.68857,Tunisia,Africa,Northern Africa,34.0,9.0
+TUR,2019,204.298,Turkey,Asia,Western Asia,39.0,35.0
+UGA,2019,4474.76,Uganda,Africa,Eastern Africa,1.0,32.0
+UKR,2019,2151.615,Ukraine,Europe,Eastern Europe,49.0,32.0
+URY,2019,58.01148,Uruguay,Americas,South America,-33.0,-56.0
+USA,2019,342.9801,United States,Americas,Northern America,38.0,-97.0
+UZB,2019,832.8077,Uzbekistan,Asia,Central Asia,41.0,64.0
+VCT,2019,1.813931,Saint Vincent and the Grenadines,Americas,Caribbean,13.25,-61.2
+VEN,2019,521.4625,Venezuela,Americas,South America,8.0,-66.0
+VNM,2019,6437.912,Vietnam,Asia,South-Eastern Asia,16.0,106.0
+VUT,2019,8.344485,Vanuatu,Oceania,Melanesia,-16.0,167.0
+WSM,2019,0.5713945,Samoa,Oceania,Polynesia,-13.5833,-172.3333
+YEM,2019,986.2856,Yemen,Asia,Western Asia,15.0,48.0
+ZAF,2019,13082.67,South Africa,Africa,Southern Africa,-29.0,24.0
+ZMB,2019,3667.806,Zambia,Africa,Eastern Africa,-15.0,30.0
+ZWE,2019,1312.823,Zimbabwe,Africa,Eastern Africa,-20.0,30.0
