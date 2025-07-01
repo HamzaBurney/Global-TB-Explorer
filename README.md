@@ -54,7 +54,6 @@ Simply open `dashboard.html` in your browser. No server required.
 
 ## 🧑‍💻 Author
 
-**Your Name**  
-[Your GitHub Profile](https://github.com/HamzaBurney)
+[Hamza Burney](https://github.com/HamzaBurney)
 
 ---
